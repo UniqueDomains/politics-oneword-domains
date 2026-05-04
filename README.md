@@ -1,22 +1,22 @@
-# Politics One-Word Domains (26,229)
+# Politics Keyword Domains (23,341)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-26%2C229%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C341%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of politics one-word domains from Unique Domains.
+These domains are politics-related names built around terms such as campaign, government, diplomatic, party, opinion, and process. Updated daily. This selection includes 23,341 domains across 505 TLDs, with a median ask of 689.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **26,229 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,341 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 26,229 domains
+**Public extract:** 1,000 rows · **Live catalog:** 23,341 domains · **Median ask:** $689.23 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-04  
 **Canonical page:** `https://unique.domains/domains/sector/Politics`  
 **Best for:** founders, investors, studios
 
@@ -64,11 +64,13 @@ print(df.head())
 
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| government.juegos  | premium   | —         | —             | 80             | 24     | 10     | —                                                   |
+| government.rentals | premium   | —         | —             | 80             | 24     | 10     | —                                                   |
 | government.xxx     | available | $154.98   | —             | 84             | 24     | 10     | namecheap                                           |
 | policy.me          | resell    | $5,750    | $27.99        | 98             | 26     | 6      | Spaceship, Inc.                                     |
 | policy.expert      | premium   | $1,040    | $1,040        | 98             | 26     | 6      | namecheap                                           |
 | government.trading | available | $19.99    | —             | 84             | 24     | 10     | name.com                                            |
-| political.team     | resell    | $46.48    | —             | 80             | 20     | 9      | NameCheap, Inc.                                     |
+| political.team     | resell    | $46.48    | —             | 80             | 21     | 9      | NameCheap, Inc.                                     |
 | government.mobile  | premium   | $1,250    | —             | 84             | 24     | 10     | name.com                                            |
 | government.sex     | available | $154.98   | —             | 84             | 24     | 10     | namecheap                                           |
 | policy.media       | resell    | —         | —             | 98             | 26     | 6      | Netregistry Wholesale Pty Ltd                       |
@@ -78,12 +80,10 @@ print(df.head())
 | government.channel | premium   | $311.25   | —             | 84             | 24     | 10     | name.com                                            |
 | government.new     | available | $549.99   | —             | 84             | 24     | 10     | name.com                                            |
 | policy.la          | resell    | —         | —             | 98             | 26     | 6      | VIPDomains.LA  Founders Program                     |
-| political.zip      | premium   | $167.70   | $167.70       | 80             | 20     | 9      | namecheap                                           |
+| political.zip      | premium   | $167.70   | $167.70       | 80             | 21     | 9      | namecheap                                           |
 | government.moi     | available | $39.99    | —             | 84             | 24     | 10     | name.com                                            |
 | policy.io          | resell    | —         | —             | 98             | 26     | 6      | Gandi SAS                                           |
-| political.you      | premium   | $65       | $65           | 80             | 20     | 9      | namecheap                                           |
-| government.ltd     | available | $9.99     | —             | 84             | 24     | 10     | name.com                                            |
-| policy.info        | resell    | —         | —             | 98             | 26     | 6      | Spaceship, Inc.                                     |
+| political.you      | premium   | $65       | $65           | 80             | 21     | 9      | namecheap                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 26,229 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 23,341 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is centered on politics-related keywords rather than a single extension or naming style. The set includes direct civic and political terms like campaign, government, diplomatic, party, and opinion, often paired with a wide range of TLDs. That creates a broad spread in quality. For founders, the main question is whether the full name reads clearly and feels credible enough to own now. For investors, the key test is whether the keyword-extension match supports resale comps and limits renewal drag. When comparing these domains, weigh ask price against extension trust, semantic fit, and whether the phrase sounds intentional instead of accidental.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Median ask is 689 across 23,341 politics-related domains
+- The set spans 505 TLDs, so extension quality varies widely
+- Best picks pair political terms with credible, relevant endings
+- Watch for awkward keyword-TLD combos and weak resale support
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Politics One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Politics Keyword Domains*. Version 2026-05-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
