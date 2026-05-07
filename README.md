@@ -67,22 +67,22 @@ print(df.head())
 | government.juegos  | premium   | —         | —             | 80             | 24     | 10     | —                                                   |
 | government.rentals | premium   | —         | —             | 80             | 24     | 10     | —                                                   |
 | government.xxx     | available | $154.98   | —             | 84             | 24     | 10     | namecheap                                           |
-| policy.me          | resell    | $5,750    | $27.99        | 98             | 26     | 6      | Spaceship, Inc.                                     |
-| policy.expert      | premium   | $1,040    | $1,040        | 98             | 26     | 6      | namecheap                                           |
+| policy.me          | resell    | $5,750    | $27.99        | 98             | 29     | 6      | Spaceship, Inc.                                     |
+| policy.expert      | premium   | $1,040    | $1,040        | 98             | 29     | 6      | namecheap                                           |
 | government.trading | available | $19.99    | —             | 84             | 24     | 10     | name.com                                            |
 | political.team     | resell    | $46.48    | —             | 80             | 21     | 9      | NameCheap, Inc.                                     |
 | government.mobile  | premium   | $1,250    | —             | 84             | 24     | 10     | name.com                                            |
 | government.sex     | available | $154.98   | —             | 84             | 24     | 10     | namecheap                                           |
-| policy.media       | resell    | —         | —             | 98             | 26     | 6      | Netregistry Wholesale Pty Ltd                       |
+| policy.media       | resell    | —         | —             | 98             | 29     | 6      | Netregistry Wholesale Pty Ltd                       |
 | government.icu     | premium   | $1,895.20 | —             | 84             | 24     | 10     | NameSilo, LLC                                       |
 | government.paris   | available | $51.98    | —             | 84             | 24     | 10     | namecheap                                           |
-| policy.life        | resell    | —         | —             | 98             | 26     | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| policy.life        | resell    | —         | —             | 98             | 29     | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | government.channel | premium   | $311.25   | —             | 84             | 24     | 10     | name.com                                            |
 | government.new     | available | $549.99   | —             | 84             | 24     | 10     | name.com                                            |
-| policy.la          | resell    | —         | —             | 98             | 26     | 6      | VIPDomains.LA  Founders Program                     |
+| policy.la          | resell    | —         | —             | 98             | 29     | 6      | VIPDomains.LA  Founders Program                     |
 | political.zip      | premium   | $167.70   | $167.70       | 80             | 21     | 9      | namecheap                                           |
 | government.moi     | available | $39.99    | —             | 84             | 24     | 10     | name.com                                            |
-| policy.io          | resell    | —         | —             | 98             | 26     | 6      | Gandi SAS                                           |
+| policy.io          | resell    | —         | —             | 98             | 29     | 6      | Gandi SAS                                           |
 | political.you      | premium   | $65       | $65           | 80             | 21     | 9      | namecheap                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
