@@ -16,7 +16,7 @@ This is a set of 164,041 one-word domain names tied to the politics keyword, spa
 
 **Public extract:** 1,000 rows · **Live catalog:** 176,056 domains · **Median ask:** $568.04 · **High-demand under $2,500:** 499
 
-**Last updated:** 2026-08-16
+**Last updated:** 2026-08-17
 **Canonical page:** `https://unique.domains/domains/sector/politics`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------ |
-| code.realty   | available | $109.99   | $299          | high           | medium | 4      | namesilo                 |
-| law.delivery  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC         |
-| laws.shop     | premium   | $625      | —             | high           | low    | 4      | name.com                 |
-| chief.press   | available | $4.99     | $86.99        | high           | low    | 5      | namesilo                 |
-| law.luxury    | resell    | —         | —             | high           | medium | 3      | Go Daddy, LLC            |
-| poll.cloud    | premium   | $2,367.82 | —             | high           | low    | 4      | Tucows Domains Inc.      |
-| chief.ryukyu  | available | $22.98    | —             | high           | low    | 5      | namecheap                |
-| chief.id      | resell    | —         | —             | high           | low    | 5      | PT Media Cloud Indonesia |
-| civic.art     | premium   | $1,662.50 | $83.30        | low            | low    | 5      | namesilo                 |
-| chief.vote    | available | $49.99    | —             | high           | low    | 5      | name.com                 |
-| civic.baby    | resell    | —         | —             | low            | low    | 5      | Dynadot Inc              |
-| civic.boo     | premium   | $73.75    | $73.75        | low            | low    | 5      | name.com                 |
-| chief.voting  | available | $1,448    | —             | high           | low    | 5      | namecheap                |
-| civic.club    | resell    | —         | —             | medium         | low    | 5      | GoDaddy.com, LLC         |
-| civic.dealer  | premium   | $2,015    | $2,600        | medium         | low    | 5      | namecheap                |
-| chief.voto    | available | $19.99    | —             | high           | low    | 5      | name.com                 |
-| civic.fund    | resell    | —         | —             | low            | low    | 5      | DNSPod, Inc.             |
-| civic.food    | premium   | $91       | $130          | low            | low    | 5      | namecheap                |
-| civic.actor   | available | $9.48     | $54.98        | low            | low    | 5      | namecheap                |
-| civic.systems | resell    | —         | —             | low            | low    | 5      | Dynadot Inc              |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| diplomatic.voting | available | $1,448    | —             | high           | low    | 10     | namecheap                                                 |
+| chief.democrat    | available | $9.99     | —             | high           | low    | 5      | name.com                                                  |
+| act.democrat      | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| news.city         | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| bill.democrat     | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo                                                  |
+| act.voting        | available | $1,448    | —             | high           | low    | 3      | namecheap                                                 |
+| poll.us           | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                          |
+| news.ceo          | premium   | $2,500    | —             | high           | medium | 4      | name.com                                                  |
+| act.voto          | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| chief.agency      | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 29                                         |
+| news.democrat     | premium   | $242      | $242          | high           | medium | 4      | namesilo                                                  |
+| law.democrat      | available | $9.99     | —             | high           | medium | 3      | name.com                                                  |
+| chief.at          | resell    | —         | —             | high           | low    | 5      | Tool Domains Ltd. ( https://nic.at/registrar/719 )        |
+| news.enterprises  | premium   | $242      | $242          | high           | medium | 4      | namesilo                                                  |
+| law.republican    | available | $5.99     | —             | high           | medium | 3      | name.com                                                  |
+| chief.center      | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                               |
+| news.gay          | premium   | $2,500    | —             | high           | medium | 4      | name.com                                                  |
+| law.voting        | available | $1,448    | —             | high           | medium | 3      | namecheap                                                 |
+| chief.chat        | resell    | —         | —             | high           | low    | 5      | DNSPod, Inc.                                              |
+| news.industries   | premium   | $242      | $242          | high           | medium | 4      | namesilo                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Politics Domain Names Across 506 TLDs*. Version 2026-08-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Politics Domain Names Across 506 TLDs*. Version 2026-08-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
