@@ -1,10 +1,10 @@
-# One-Word Politics Domain Names Across 506 TLDs (183,998)
+# One-Word Politics Domain Names Across 506 TLDs (186,444)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-183%2C998%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-186%2C444%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This is a set of 164,041 one-word domain names tied to the politics keyword, spanning 506 distinct TLDs such as .democrat, .voting, and .markets. The median asking price is $618. Updated daily, it offers a broad, keyword-matched view of politics-themed one-word domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **183,998 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **186,444 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 183,998 domains · **Median ask:** $547.29 · **High-demand under $2,500:** 497
+**Public extract:** 1,000 rows · **Live catalog:** 186,444 domains · **Median ask:** $541.75 · **High-demand under $2,500:** 497
 
 **Last updated:** 2026-09-03
 **Canonical page:** `https://unique.domains/domains/sector/politics`
@@ -66,24 +66,24 @@ print(df.head())
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------ |
 | diplomatic.voting | available | $1,448    | —             | high           | low    | 10     | namecheap                |
 | chief.democrat    | available | $9.99     | —             | high           | low    | 5      | name.com                 |
-| law.voting        | available | $1,448    | —             | high           | medium | 3      | namecheap                |
-| news.report       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC              |
-| city.shop         | premium   | $12,500   | —             | high           | medium | 4      | name.com                 |
-| law.voto          | available | $19.99    | —             | high           | medium | 3      | name.com                 |
-| chief.id          | resell    | —         | —             | high           | low    | 5      | PT Media Cloud Indonesia |
-| news.democrat     | premium   | $242      | $242          | high           | medium | 4      | namesilo                 |
 | code.realty       | available | $109.99   | $299          | high           | medium | 4      | namesilo                 |
-| chief.us          | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC         |
-| news.voto         | premium   | $625      | —             | high           | medium | 4      | name.com                 |
+| law.delivery      | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC         |
+| news.democrat     | premium   | $242      | $242          | high           | medium | 4      | namesilo                 |
 | news.voting       | available | $1,448    | —             | high           | medium | 4      | namecheap                |
-| civic.life        | resell    | —         | —             | low            | low    | 5      | GoDaddy.com, LLC         |
-| civic.cricket     | premium   | $437.50   | $62.50        | low            | low    | 5      | name.com                 |
-| poll.voto         | available | $19.99    | —             | high           | low    | 4      | name.com                 |
-| civil.bet         | resell    | —         | —             | low            | low    | 5      | Sav.com, LLC - 46        |
-| civic.faith       | premium   | $116      | $29.50        | low            | low    | 5      | namesilo                 |
-| civil.ink         | resell    | —         | —             | low            | low    | 5      | UM Domains Pte. Ltd.     |
-| civic.ing         | premium   | $437.50   | $437.50       | low            | low    | 5      | name.com                 |
-| chief.press       | available | $4.99     | $86.99        | high           | low    | 5      | namesilo                 |
+| news.report       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC              |
+| news.voto         | premium   | $625      | —             | high           | medium | 4      | name.com                 |
+| rule.builders     | available | $34.98    | $43.98        | low            | low    | 4      | namecheap                |
+| rule.ca           | resell    | —         | —             | low            | low    | 4      | BareMetal.com inc        |
+| rule.audio        | premium   | $2,600    | $2,600        | low            | low    | 4      | namecheap                |
+| rule.cars         | available | $2,070    | $2,950        | low            | low    | 4      | namecheap                |
+| rule.media        | resell    | —         | —             | low            | low    | 4      | Porkbun LLC              |
+| rule.build        | premium   | $1,950    | $1,950        | low            | low    | 4      | namecheap                |
+| rule.cat          | available | $26.98    | $38.98        | low            | low    | 4      | namecheap                |
+| chief.id          | resell    | —         | —             | high           | low    | 5      | PT Media Cloud Indonesia |
+| rule.casa         | premium   | $52       | $13           | low            | low    | 4      | namecheap                |
+| rule.democrat     | available | $5.98     | $41.48        | low            | low    | 4      | namecheap                |
+| civic.club        | resell    | —         | —             | medium         | low    | 5      | GoDaddy.com, LLC         |
+| rule.click        | premium   | $91       | $130          | low            | low    | 4      | namecheap                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 183,998 live domains                       |
+| 1,000-row public sample | 186,444 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 497 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
