@@ -72,18 +72,18 @@ print(df.head())
 | law.voto          | available | $19.99    | —             | high           | medium | 3      | name.com                   |
 | rule.agency       | resell    | —         | —             | low            | low    | 4      | Sav.com, LLC - 35          |
 | news.democrat     | premium   | $242      | $242          | high           | medium | 4      | namesilo                   |
-| bill.voting       | available | $1,448    | —             | high           | low    | 4      | namecheap                  |
-| rule.team         | resell    | —         | —             | low            | low    | 4      | Squarespace Domains II LLC |
-| news.voto         | premium   | $625      | —             | high           | medium | 4      | name.com                   |
-| free.voting       | available | $1,448    | —             | high           | medium | 4      | namecheap                  |
-| chief.id          | resell    | —         | —             | high           | low    | 5      | PT Media Cloud Indonesia   |
-| rule.racing       | premium   | $130      | $130          | low            | low    | 4      | namecheap                  |
-| head.voting       | available | $1,448    | —             | high           | low    | 4      | namecheap                  |
-| chief.us          | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC           |
-| civic.cricket     | premium   | $437.50   | $62.50        | low            | low    | 5      | name.com                   |
 | news.voting       | available | $1,448    | —             | high           | medium | 4      | namecheap                  |
-| civic.life        | resell    | —         | —             | low            | low    | 5      | GoDaddy.com, LLC           |
-| civic.esq         | premium   | $111.25   | $111.25       | medium         | low    | 5      | name.com                   |
+| rule.in           | resell    | —         | —             | low            | low    | 4      | Dynadot, LLC               |
+| news.voto         | premium   | $625      | —             | high           | medium | 4      | name.com                   |
+| poll.voto         | available | $19.99    | —             | high           | low    | 4      | name.com                   |
+| rule.team         | resell    | —         | —             | low            | low    | 4      | Squarespace Domains II LLC |
+| rule.click        | premium   | $91       | $130          | low            | low    | 4      | namecheap                  |
+| rule.best         | available | $2.28     | $29.98        | low            | low    | 4      | namecheap                  |
+| chief.id          | resell    | —         | —             | high           | low    | 5      | PT Media Cloud Indonesia   |
+| rule.flowers      | premium   | $2,600    | $2,600        | low            | low    | 4      | namecheap                  |
+| rule.claims       | available | $11.98    | $82.98        | low            | low    | 4      | namecheap                  |
+| chief.us          | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC           |
+| rule.market       | premium   | $260      | $260          | low            | low    | 4      | namecheap                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
