@@ -1,10 +1,10 @@
-# One-Word Politics Domain Names Across 506 TLDs (133,074)
+# One-Word Politics Domain Names Across 506 TLDs (134,019)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-133%2C074%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-134%2C019%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This is a set of 164,041 one-word domain names tied to the politics keyword, spanning 506 distinct TLDs such as .democrat, .voting, and .markets. The median asking price is $618. Updated daily, it offers a broad, keyword-matched view of politics-themed one-word domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **133,074 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **134,019 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 133,074 domains · **Median ask:** $345.46 · **High-demand under $2,500:** 277
+**Public extract:** 1,000 rows · **Live catalog:** 134,019 domains · **Median ask:** $345.84 · **High-demand under $2,500:** 476
 
 **Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/sector/politics`
@@ -67,22 +67,22 @@ print(df.head())
 | vote.voting       | available | $1,448      | —             | high           | low    | 4      | namecheap         |
 | policy.xyz        | resell    | $228,721.20 | $20.99        | high           | low    | 6      | Dynadot Inc       |
 | party.republican  | premium   | $242        | $242          | high           | medium | 5      | namesilo          |
-| party.sarl        | available | $6.99       | $6.99         | high           | medium | 5      | namesilo          |
+| policy.associates | available | $21.99      | —             | high           | low    | 6      | name.com          |
 | political.team    | resell    | $46.48      | —             | high           | low    | 9      | NameCheap, Inc.   |
 | policy.blog       | premium   | $160        | $640          | high           | low    | 6      | namesilo          |
-| policy.associates | available | $21.99      | —             | high           | low    | 6      | name.com          |
+| policy.baby       | available | $17.99      | $54.99        | high           | low    | 6      | namesilo          |
 | government.fit    | resell    | $2.99       | $32.49        | high           | low    | 10     | Spaceship, Inc.   |
 | policy.channel    | premium   | $311.25     | —             | high           | low    | 6      | name.com          |
-| policy.baby       | available | $17.99      | $54.99        | high           | low    | 6      | namesilo          |
+| policy.bayern     | available | $34.99      | $34.99        | high           | low    | 6      | namesilo          |
 | government.homes  | resell    | $1.99       | $15.75        | high           | low    | 10     | Spaceship, Inc.   |
 | policy.club       | premium   | $960        | $17.70        | high           | low    | 6      | namesilo          |
-| policy.bayern     | available | $34.99      | $34.99        | high           | low    | 6      | namesilo          |
+| policy.camp       | available | $11.99      | —             | high           | low    | 6      | name.com          |
 | government.xxx    | resell    | $154.98     | —             | high           | low    | 10     | GoDaddy.com, LLC  |
 | policy.courses    | premium   | $242        | $242          | high           | low    | 6      | namesilo          |
-| policy.camp       | available | $11.99      | —             | high           | low    | 6      | name.com          |
+| policy.christmas  | available | $34.99      | $34.99        | high           | low    | 6      | namesilo          |
 | policy.co         | resell    | —           | —             | high           | low    | 6      | GoDaddy.com, LLC  |
 | policy.cv         | premium   | $649.60     | $80.33        | high           | low    | 6      | namesilo          |
-| policy.christmas  | available | $34.99      | $34.99        | high           | low    | 6      | namesilo          |
+| policy.clothing   | available | $19.99      | —             | high           | low    | 6      | name.com          |
 | policy.digital    | resell    | —           | —             | high           | low    | 6      | Sav.com, LLC - 39 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 133,074 live domains                       |
+| 1,000-row public sample | 134,019 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 277 high-demand names under $2,500         |
+| Basic exported fields   | 476 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
