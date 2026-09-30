@@ -1,212 +1,26 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-d9133b81-a36f-4f4b-a0c5-c1444ce3ac01,government.voto,premium,128.7,128.7,high,low,10,namecheap,,,24/09/2026 22:50
-82169b3a-faa5-4d60-b832-06a14b1c6728,government.vote,premium,192,192,high,low,10,namesilo,,,24/09/2026 22:50
-1f9cde1f-34d5-4b9e-a268-37d5e7a19f3b,political.republican,available,7.49,28.99,high,low,9,namesilo,,,27/09/2026 04:28
 6b8bf7e9-2cad-4e67-b440-952aef349c96,political.democrat,premium,78.54,78.54,high,low,9,namesilo,,,27/09/2026 04:28
 172d5431-1e56-4dac-8822-52791c5a073a,political.voto,premium,128.7,128.7,high,low,9,namecheap,,,27/09/2026 04:28
-258f4415-9d3b-43ff-8727-6e84fff69bc1,government.country,available,2298,2450,high,low,10,namecheap,,,24/09/2026 22:50
-5bea0491-2fe9-451b-af86-7e62558ef33b,government.srl,premium,54.28,30.68,high,low,10,namesilo,,,24/09/2026 22:50
 4fe2c6de-d69b-4492-aa6d-97210d12401a,government.republican,premium,118.8,118.8,high,low,10,namesilo,,,24/09/2026 22:50
-986ed567-516f-49bd-aafb-41a86500a39a,government.zone,premium,128.7,128.7,high,low,10,namecheap,,,24/09/2026 22:50
-e6431d2a-710e-4f73-b7c8-27149e7b8114,political.ceo,available,9.99,146.98,high,low,9,namecheap,,,27/09/2026 04:28
-fbbee8ef-08b6-48c4-a0a1-6b8fa2bcf145,government.lawyer,premium,1107,1107,high,low,10,namesilo,,,24/09/2026 22:50
-8940173b-00e0-45ec-978a-074bf9fa79c1,government.management,premium,118.8,118.8,high,low,10,namesilo,,,24/09/2026 22:50
-ede2e141-59f1-4e30-9795-903599147772,political.sarl,available,6.99,6.99,high,low,9,namesilo,,,27/09/2026 04:28
-b5e36973-99f2-4acc-a1f3-174a2e79dc82,government.sbs,premium,68.43,147.2,high,low,10,namesilo,,,24/09/2026 22:50
-301dd1d2-d32c-490c-b1cb-1c8a7d365593,government.dev,premium,421.12,421.12,high,low,10,namesilo,,,24/09/2026 22:50
-53ef292d-1712-4d37-9ee7-c8885ec77c49,government.io,resell,,,high,low,10,"GoDaddy.com, LLC",08/09/2020 14:32,08/09/2027 14:32,26/09/2026 06:27
-1f7f9f91-c7c5-44d1-b227-199b9b56a13b,government.promo,available,14.49,24.99,high,low,10,namesilo,,,24/09/2026 22:50
-1d22c9b3-ae1e-4fe7-ab51-00651afdd223,government.immo,available,34.99,34.99,high,low,10,namesilo,,,24/09/2026 22:50
-30bc6ff5-9a2f-4da2-b927-147a2b07212b,government.esq,premium,427.7,427.7,high,low,10,namecheap,,,24/09/2026 22:50
-d11294c2-6c25-4b47-9a2c-511a83d72d24,government.cool,available,9.49,44.99,high,low,10,namesilo,,,24/09/2026 22:50
-11ce5c4d-e3e1-45f9-9aa8-55a50f3bff07,government.bar,available,2.8,81.98,high,low,10,namecheap,,,24/09/2026 22:50
-1ba1402f-147e-4dc3-a850-69a9560c8aaf,government.racing,premium,130,130,high,low,10,namecheap,,,24/09/2026 22:50
-548878e7-b38c-4dee-80dd-f7558d637260,government.ceo,premium,254.72,254.72,high,low,10,namesilo,,,24/09/2026 22:50
-40853902-53bb-4c4e-8965-62e07e229979,government.solutions,premium,520,520,high,low,10,namecheap,,,24/09/2026 22:50
-274d2bca-8609-4e9b-a5a4-cf17ce8fa0cd,political.ninja,premium,118.8,118.8,high,low,9,namesilo,,,27/09/2026 04:28
-f4013b94-276a-4288-841f-95f108096998,government.accountants,premium,118.8,118.8,high,low,10,namesilo,,,24/09/2026 22:50
-7b0f38f0-3bf1-4dcc-83ca-728577dd9ddc,government.sucks,premium,13800,2658.67,high,low,10,namesilo,,,24/09/2026 22:50
-bd2dca0d-dccb-43e3-b388-70ea612ffa84,government.university,premium,78.54,78.54,high,low,10,namesilo,,,24/09/2026 22:50
-57c8dcf1-4173-49b4-8bd0-3a1d0281c39e,government.town,available,8.99,36.49,high,low,10,namesilo,,,24/09/2026 22:50
-723e3f10-35fa-4a7a-a523-0d43f82c7f42,government.motorcycles,available,1.99,17.29,high,low,10,namesilo,,,24/09/2026 22:50
-63ac98a5-bac1-4a74-891c-363d7c824aff,government.forsale,premium,118.8,118.8,high,low,10,namesilo,,,24/09/2026 22:50
-e9ff52f3-24a8-473a-b509-cb658727d4a6,government.red,resell,,,high,low,10,"Spaceship, Inc.",16/05/2019 05:49,16/05/2027 05:49,26/09/2026 06:27
-542e45ec-107b-4b60-8552-89578e8251d9,government.reisen,available,3.99,20.99,high,low,10,namesilo,,,24/09/2026 22:50
-b6e1888b-5afb-41d1-a9df-e92c1b555b3c,government.clinic,premium,242,242,high,low,10,namesilo,,,24/09/2026 22:50
-fb105da3-b62a-4b4b-b2fb-1dad3bddb3b4,government.host,premium,325,650,high,low,10,namecheap,,,24/09/2026 22:50
-659628de-3222-4227-8f26-640fb086209b,government.vodka,available,32.49,32.49,high,low,10,namesilo,,,24/09/2026 22:50
-8509480a-40cf-40b0-a71a-654f46615f1d,government.express,available,12.49,39.99,high,low,10,namesilo,,,24/09/2026 22:50
-5396783c-c22c-4669-867c-eb10f207391a,government.productions,available,10.99,40.49,high,low,10,namesilo,,,24/09/2026 22:50
-928a20b8-f73e-4611-8aeb-6b2f261d2963,government.golf,available,7.49,64.99,high,low,10,namesilo,,,24/09/2026 22:50
-63eac9db-195e-4a21-abd1-467f9f7b1c0b,government.associates,premium,85.8,85.8,high,low,10,namecheap,,,24/09/2026 22:50
-47dbba4f-0486-4ab0-8881-5fb834aa0ffb,government.creditcard,premium,242,242,high,low,10,namesilo,,,24/09/2026 22:50
-b1a7ff38-fc3c-423e-96e6-962850691fb8,government.shoes,available,64.99,64.99,high,low,10,namesilo,,,24/09/2026 22:50
-aa5722a0-b279-4a31-b4e2-b7800b321b8a,political.online,premium,3450,3450,high,low,9,namesilo,,,27/09/2026 04:28
-9dddf07e-bd9a-4a3b-976b-faf48423b767,government.rsvp,premium,323.7,323.7,high,low,10,namecheap,,,24/09/2026 22:50
-b274f286-86f2-41c3-ac85-0a4d3ae9dd86,political.ngo,available,18.98,24.98,high,low,9,namecheap,,,27/09/2026 04:28
-a9ed20a4-9c3d-44f7-9ba8-aab7308f40f0,government.art,premium,354.9,91,high,low,10,namecheap,,,24/09/2026 22:50
-4d46af86-f243-4aea-8684-de12d209883a,government.space,premium,3450,3450,high,low,10,namesilo,,,24/09/2026 22:50
-30286116-f316-4fa2-83cd-c784059321f6,political.expert,premium,128.7,128.7,high,low,9,namecheap,,,27/09/2026 04:28
-b4ffd7fb-80d2-40c1-9d0b-7fc419151c57,government.tienda,available,59.99,59.99,high,low,10,namesilo,,,24/09/2026 22:50
-f0e4a163-2129-443e-bd2a-c08fd96c5047,government.taxi,available,10.99,62.99,high,low,10,namesilo,,,24/09/2026 22:50
-26a99f67-ed6d-4427-bec5-2ac9b128afb5,government.blackfriday,available,128.98,134.98,high,low,10,namecheap,,,24/09/2026 22:50
-eb4ed914-fb40-402a-8af4-6ac11e4b11fe,government.salon,available,57.99,57.99,high,low,10,namesilo,,,24/09/2026 22:50
-d90beb18-f92a-471b-8ae9-154b48791553,government.style,available,7.98,49.98,high,low,10,namecheap,,,24/09/2026 22:50
-c8db3ba2-22e7-4c9f-9d20-2457e3572362,government.loans,premium,512,512,high,low,10,namesilo,,,24/09/2026 22:50
-a9b941f0-a53d-4009-8032-58eca82d7183,government.maison,available,60.98,69.98,high,low,10,namecheap,,,24/09/2026 22:50
-44766c78-48fc-49af-a4db-ca7bf9eb848c,political.fun,premium,3450,3450,high,low,9,namesilo,,,27/09/2026 04:28
-237ab458-7485-4e4f-a870-1860784777ed,political.casa,available,1.98,17.98,high,low,9,namecheap,,,27/09/2026 04:28
-b1b6460d-dd47-42aa-8ee8-3463f1adc69d,government.surgery,available,54.99,54.99,high,low,10,namesilo,,,24/09/2026 22:50
-3edaa50d-e381-4285-9943-32b77b11a2c8,political.sucks,available,218.99,218.99,high,low,9,namesilo,,,27/09/2026 04:28
-562ebe87-c5f1-4d30-97be-a3eaf382eecf,government.social,premium,118.8,118.8,high,low,10,namesilo,,,24/09/2026 22:50
-c892b7da-8f2f-4a3c-a702-e3d3125c6fac,political.organic,available,17.99,85.99,high,low,9,namesilo,,,27/09/2026 04:28
-f9677805-81f3-4861-b655-d94f2be95848,government.protection,available,2070,2950,high,low,10,namecheap,,,24/09/2026 22:50
-516358ec-7142-44d5-89af-040f0893b4cf,government.trading,available,21.98,27.98,high,low,10,namecheap,,,24/09/2026 22:50
-a1810b7c-fcc2-47a4-9bee-935d2f2c65dc,government.boats,available,1.99,17.29,high,low,10,namesilo,,,24/09/2026 22:50
-dd258db5-0754-4a8c-a23e-e69e973bdd61,political.management,resell,,,high,low,9,"GoDaddy.com, LLC",19/03/2014 16:00,19/03/2027 16:00,27/09/2026 04:28
-55e44cc2-1b00-4d55-ac0a-826f5b854de9,government.men,premium,448,53.92,high,low,10,namesilo,,,24/09/2026 22:50
-d999af14-b5f6-467c-b2db-9086be420e90,political.yachts,available,1.8,21.98,high,low,9,namecheap,,,27/09/2026 04:28
-1d18311a-3bb4-4b4d-81b8-9e04f58f1369,political.estate,available,15.99,38.99,high,low,9,namesilo,,,27/09/2026 04:28
-07947979-4390-4010-a876-5b601562a5d2,political.ca,resell,,,high,low,9,Grape Inc.,25/01/2002 19:45,25/01/2027 05:00,27/09/2026 04:28
-7bb9997a-e11b-4f17-94fa-e001cccf6091,government.poker,available,5.98,85.98,high,low,10,namecheap,,,24/09/2026 22:50
-99c0c39f-0d30-4048-b144-7735cad03a40,government.guitars,available,104.99,114.99,high,low,10,namesilo,,,24/09/2026 22:50
-effb2882-2fd8-414f-a347-f65fc1373e50,government.gives,available,14.99,23.99,high,low,10,namesilo,,,24/09/2026 22:50
-9726353d-3bc1-4ba1-92ac-a45b52128770,government.rehab,available,36.99,36.99,high,low,10,namesilo,,,24/09/2026 22:50
-f0e1ce20-b68c-41ab-addc-0d653c21e237,government.gg,available,68.98,82.98,high,low,10,namecheap,,,24/09/2026 22:50
-dea1c1df-e8eb-47e8-8d4e-2e9fd529ac22,government.company,resell,,,high,low,10,"GoDaddy.com, LLC",01/06/2020 23:13,01/06/2027 23:13,26/09/2026 06:27
-1b890d0c-2b7e-4dce-bde1-522ae6d2590c,government.life,premium,64.35,128.7,high,low,10,namecheap,,,24/09/2026 22:50
-c70c7eb4-9864-4bb4-a948-d200b5279794,government.pw,premium,3450,3450,high,low,10,namesilo,,,24/09/2026 22:50
-a289b13d-569c-448b-ace0-8dfad89c0ffc,political.loan,premium,650,84.5,high,low,9,namecheap,,,27/09/2026 04:28
-07e343ee-c930-4381-89ba-85d8b704c317,political.engineering,available,16.99,64.99,high,low,9,namesilo,,,27/09/2026 04:28
-3504f357-1115-46c9-8f1f-e06401da8fa9,political.horse,available,33.98,43.98,high,low,9,namecheap,,,27/09/2026 04:28
-9e7deebb-a9e5-4df1-828c-532acc84493c,government.coach,premium,242,242,high,low,10,namesilo,,,24/09/2026 22:50
-594eccfb-28d5-43b3-8dbd-255dd236f734,government.church,available,8.48,78.98,high,low,10,namecheap,,,24/09/2026 22:50
-2219c88a-daa2-42ab-a690-37c62300d7a2,government.theatre,available,509.99,529.99,high,low,10,namesilo,,,24/09/2026 22:50
-b6156e0b-d22d-4bec-b3c4-6604a999665d,government.catering,available,38.99,38.99,high,low,10,namesilo,,,24/09/2026 22:50
-3efc7616-0e4a-42b7-b1f2-09fe08f6a37d,political.sbs,premium,68.43,147.2,high,low,9,namesilo,,,27/09/2026 04:28
-5e8eb1af-4613-4538-a36e-5197a26810c0,government.deals,resell,,,high,low,10,Dynadot Inc,07/02/2024 17:33,07/02/2027 17:33,26/09/2026 06:27
-b0c97d0b-f66b-4a1e-878b-771d8c497d8a,political.school,resell,,,high,low,9,"GoDaddy.com, LLC",15/02/2021 03:00,15/02/2027 03:00,27/09/2026 04:28
-a78e2c64-658e-4bd6-8ecd-a8474c2555a5,political.gg,available,68.98,82.98,high,low,9,namecheap,,,27/09/2026 04:28
-0be8d05a-f837-4158-b68e-870338e4db0e,government.food,available,4.98,48.98,high,low,10,namecheap,,,24/09/2026 22:50
-2e889272-b72f-4cb3-87df-13c36d201b90,political.plus,available,15.99,53.99,high,low,9,namesilo,,,27/09/2026 04:28
-f9585ab1-fee7-4d23-82d3-270ce1b2ff62,government.fans,premium,116,116,high,low,10,namesilo,,,24/09/2026 22:50
-167e75d2-534d-40a5-acfb-3ce399ebeb34,political.photo,available,29.99,29.99,high,low,9,namesilo,,,27/09/2026 04:28
-7bff3000-8541-4ced-a302-b27dab5449d3,government.click,available,2.19,12.99,high,low,10,namesilo,,,24/09/2026 22:50
-f17f709d-ab83-4439-be56-848b29e509a0,government.work,premium,3450,11.8,high,low,10,namesilo,,,24/09/2026 22:50
-000265c1-bba7-4979-9187-283af664fea7,political.gold,available,7.98,130.98,high,low,9,namecheap,,,27/09/2026 04:28
-6f0de143-28c5-4acd-b06c-33fae9675011,political.fan,available,57.98,68.98,high,low,9,namecheap,,,27/09/2026 04:28
-77a72db0-e822-421f-9314-51f1d0b0d8ba,government.dental,premium,242,242,high,low,10,namesilo,,,24/09/2026 22:50
-ce2d71d4-9a7c-4611-8d55-06a8746cbb5f,political.video,premium,1107,1107,high,low,9,namesilo,,,27/09/2026 04:28
-e0351e06-9823-4e88-a1d5-dddb24b6dccb,political.surf,available,2.19,32.49,high,low,9,namesilo,,,27/09/2026 04:28
-972bacfa-6bf1-4745-a50b-17043aae0289,political.cricket,premium,3250,130,high,low,9,namecheap,,,27/09/2026 04:28
-1e91727a-f104-4e72-a4fe-c0c242875bc7,government.institute,premium,118.8,118.8,high,low,10,namesilo,,,24/09/2026 22:50
-ff4288a1-5ba7-4430-a401-0c918df12a8c,political.sex,available,69.98,154.98,high,low,9,namecheap,,,27/09/2026 04:28
-7945173c-44d0-4f82-a094-58b76d379769,government.cyou,premium,68.43,147.2,high,low,10,namesilo,,,24/09/2026 22:50
-ebc23661-dce3-4bff-8c45-ca05bdfe5150,political.farm,available,15.99,38.99,high,low,9,namesilo,,,27/09/2026 04:28
-8a7c31db-e58d-402e-9603-583817bb4343,political.associates,available,18.99,38.99,high,low,9,namesilo,,,27/09/2026 04:28
-0305b59d-8d25-4206-8495-0f03bf2c3af3,government.casino,available,14.99,159.99,high,low,10,namesilo,,,24/09/2026 22:50
-3781717e-f4ae-43d9-9a3e-38babf4eefce,political.claims,available,17.99,64.99,high,low,9,namesilo,,,27/09/2026 04:28
-85e4d1bf-d6d5-4ac1-852d-87c2fe1afb6f,government.living,available,5.49,39.99,high,low,10,namesilo,,,24/09/2026 22:50
-a0b03758-49a5-4ec3-bae8-02ea29f4df2a,government.vacations,available,38.99,38.99,high,low,10,namesilo,,,24/09/2026 22:50
-78b1fab7-3efa-4671-b71a-9c02f2d9e583,political.accountant,premium,640,77.35,high,low,9,namesilo,,,27/09/2026 04:28
-97cc4ed5-2b0e-4174-9ea2-2fb723c74567,political.gift,available,14.99,14.99,high,low,9,namesilo,,,27/09/2026 04:28
-51f8d752-6e6e-415f-ab9b-fbba3b2711ca,political.site,premium,1625,6500,high,low,9,namecheap,,,27/09/2026 04:28
-9f9425f1-5a50-42a1-a4db-3d7ce574e983,political.gratis,available,24.98,31.98,high,low,9,namecheap,,,27/09/2026 04:28
-e84f3238-9d99-4ecf-afca-baa892812464,government.degree,available,52.99,52.99,high,low,10,namesilo,,,24/09/2026 22:50
-40f92144-ec87-4a87-914e-3bf2c65ca504,political.insure,available,72.99,72.99,high,low,9,namesilo,,,27/09/2026 04:28
-ed2b21ac-4434-42a2-922a-8c7f029134e4,government.immobilien,available,37.99,37.99,high,low,10,namesilo,,,24/09/2026 22:50
-a0197b90-6d0a-43e1-92f1-9d1ccb84b8b3,political.theater,available,65.99,65.99,high,low,9,namesilo,,,27/09/2026 04:28
-0ef333b4-8819-4f49-b6d7-d6648e216fcc,political.parts,available,10.48,45.98,high,low,9,namecheap,,,27/09/2026 04:28
-e1a6cd56-017a-41f9-a141-ac77314086db,political.exposed,available,22.49,22.49,high,low,9,namesilo,,,27/09/2026 04:28
-2e463345-5b31-426e-972e-35ed2d5e0993,government.broker,available,11.98,47.98,high,low,10,namecheap,,,24/09/2026 22:50
-97e7fd25-ff62-40fc-a3f8-a1ecc90c9c62,political.boo,premium,76.7,76.7,high,low,9,namecheap,,,27/09/2026 04:28
-74a6952c-9d99-4556-82d0-f8e72ce61f05,government.win,premium,448,53.92,high,low,10,namesilo,,,24/09/2026 22:50
-5516d773-19ec-4c4d-8ad1-5c3ee1f8ed59,political.so,available,68.98,,high,low,9,namecheap,,,
-898691f7-4f1d-41d5-b66c-8747c1909cbd,political.cash,available,12.99,38.99,high,low,9,namesilo,,,27/09/2026 04:28
-9a33f58f-cbf6-4c0e-b645-47d6da363ac3,government.delivery,available,6.75,61.99,high,low,10,namesilo,,,24/09/2026 22:50
 093e5635-86dc-4765-a70e-03ba5b99fa40,government.llc,premium,302.5,302.5,high,low,10,namesilo,,,24/09/2026 22:50
-8bb5f872-48e3-44c2-adb2-d0e8666616af,political.flowers,available,64.99,114.99,high,low,9,namesilo,,,27/09/2026 04:28
-73a3b205-795e-4e72-89c6-3250d566a9d5,government.buzz,premium,512,116,high,low,10,namesilo,,,24/09/2026 22:50
-a4a45642-611b-4ed1-9a82-039aed1984a2,government.hair,available,1.99,17.29,high,low,10,namesilo,,,24/09/2026 22:50
-18f4df94-980a-4724-bff9-9c7751846d6a,political.cool,available,9.49,44.99,high,low,9,namesilo,,,27/09/2026 04:28
-cd736840-6a25-4cee-8a04-6fa3f5d60436,political.hair,available,1.99,17.29,high,low,9,namesilo,,,27/09/2026 04:28
-aeeceb75-af5a-407c-b103-a0c06e93951d,government.tennis,available,65.99,65.99,high,low,10,namesilo,,,24/09/2026 22:50
-59a86a46-046a-47dc-8a7b-72a70539b9c7,government.fast,premium,53.92,53.92,high,low,10,namesilo,,,24/09/2026 22:50
-f480e158-1275-4a0d-9ee7-62499752d699,political.cleaning,available,75.49,75.49,high,low,9,namesilo,,,27/09/2026 04:28
-f3e073d5-aa75-48aa-ab5c-78913f5bfe4e,government.wiki,premium,116,116,high,low,10,namesilo,,,24/09/2026 22:50
 cdde517f-328c-4c0e-a529-631f55613fb9,government.ltda,premium,56.64,33.04,high,low,10,namesilo,,,24/09/2026 22:50
-7951b152-e688-4d52-868d-f80a44676540,political.vodka,available,32.49,32.49,high,low,9,namesilo,,,27/09/2026 04:28
-7cd70bf8-495e-4b87-b015-dabfc76ecc5c,government.football,available,26.98,36.98,high,low,10,namecheap,,,24/09/2026 22:50
-e46bcc53-471e-4dc5-ae34-8dc36eb2bfc6,political.bet,premium,650,650,high,low,9,namecheap,,,27/09/2026 04:28
-84952cf8-8b5b-4bb0-a178-1b2b7452a5c0,government.auto,available,1999.99,2199,high,low,10,namesilo,,,24/09/2026 22:50
-e699aced-eff1-4492-a601-245bb5289ec2,government.lease,premium,128.7,128.7,high,low,10,namecheap,,,24/09/2026 22:50
-4b65205a-73ae-4405-9586-08e270926772,government.cleaning,available,75.49,75.49,high,low,10,namesilo,,,24/09/2026 22:50
-41ff69e9-3e55-4834-9a2c-97f2d884d2c2,government.care,premium,260,520,high,low,10,namecheap,,,24/09/2026 22:50
-1d7feda1-4a2c-455a-8962-15c9b3ffd092,government.photography,available,14.49,36.49,high,low,10,namesilo,,,24/09/2026 22:50
-9d6f3405-0d3a-4e57-84e3-27679f7d3a2f,political.supply,available,25.99,25.99,high,low,9,namesilo,,,27/09/2026 04:28
-7a18aba8-a5ba-4b62-8a19-cec6edbe04f6,political.monster,available,1.99,17.29,high,low,9,namesilo,,,27/09/2026 04:28
-b0b1199c-5aee-4668-8148-7a169da29ae6,political.broker,available,11.98,47.98,high,low,9,namecheap,,,27/09/2026 04:28
-da32c524-3095-4eca-8b66-f93623eccc22,political.wine,available,9.99,59.99,high,low,9,namesilo,,,27/09/2026 04:28
-0dfcd11c-8fa9-441d-a0d3-c8a9dcced951,government.photo,premium,116,116,high,low,10,namesilo,,,24/09/2026 22:50
-338e8f7b-1e5b-482e-b629-8dca8fd50520,political.io,resell,,,high,low,9,Dynadot Inc,19/01/2015 20:56,19/01/2027 20:56,27/09/2026 04:28
-f2764646-e42f-45ab-8a7e-109b35f13061,government.engineer,available,38.99,38.99,high,low,10,namesilo,,,24/09/2026 22:50
-6c7f2971-df57-4119-811c-5c897a930556,political.jetzt,available,23.99,23.99,high,low,9,namesilo,,,27/09/2026 04:28
 2a093a22-9eb1-4586-ac86-c5a21eaf59af,government.mba,premium,78.54,78.54,high,low,10,namesilo,,,24/09/2026 22:50
 3486a1a1-0389-458f-b32d-f6713d34b5a1,government.exposed,premium,118.8,118.8,high,low,10,namesilo,,,24/09/2026 22:50
-3bf40b02-8c5c-4c0a-bd73-9c1e3a4f8c04,political.tires,available,5.99,78.99,high,low,9,namesilo,,,27/09/2026 04:28
-be8ca65b-1764-420f-a5d6-38a989fa3fe2,government.one,premium,640,640,high,low,10,namesilo,,,24/09/2026 22:50
-1f2da769-7ea8-423e-bc8b-4567f9b7251c,political.global,available,46.99,95.99,high,low,9,namesilo,,,27/09/2026 04:28
 4b460e84-4e95-479b-af2f-ddb0f842e492,government.democrat,premium,118.8,118.8,high,low,10,namesilo,,,24/09/2026 22:50
-5d3e86b5-2be7-4e60-bbac-4ed398ace745,political.guide,resell,,,high,low,9,"Spaceship, Inc.",01/12/2018 16:46,01/12/2026 16:46,27/09/2026 04:28
-6886a96f-7e15-484e-a62b-a9fe918728b9,political.singles,available,9.49,33.99,high,low,9,namesilo,,,27/09/2026 04:28
-5052cba9-14ad-4661-bbc5-abec189b8d89,political.cars,available,1999.99,2199,high,low,9,namesilo,,,27/09/2026 04:28
-4e7d08e4-3310-4e60-98b6-d0638cf39ebc,political.link,premium,448,448,high,low,9,namesilo,,,27/09/2026 04:28
-80cdde34-c5bf-4482-9fcf-9af3a08023f0,political.florist,available,32.99,32.99,high,low,9,namesilo,,,27/09/2026 04:28
-4ed207da-d26a-44e3-a841-7f8ccf4151ee,political.fast,premium,53.92,53.92,high,low,9,namesilo,,,27/09/2026 04:28
-f1ff05a3-2ead-4c86-9458-87266eeb1a74,political.adult,available,69.98,166.98,high,low,9,namecheap,,,27/09/2026 04:28
-d207a291-b858-4bf4-89a9-d01f78f08f1e,political.to,available,64.99,64.99,high,low,9,namesilo,,,27/09/2026 04:28
-75ee503d-4bff-435f-9814-fd4bc7256eba,political.bingo,available,53.99,53.99,high,low,9,namesilo,,,27/09/2026 04:28
 33aab4aa-16ff-47d2-bd9f-819ecc4d0fd2,government.ninja,premium,128.7,128.7,high,low,10,namecheap,,,24/09/2026 22:50
-66a9d3e5-f56e-4a20-9f6e-f1ad806f24b1,political.golf,available,7.49,64.99,high,low,9,namesilo,,,27/09/2026 04:28
 2d573d62-f2a1-4aeb-bc52-a9136aaae890,government.airforce,available,109.98,134.98,high,low,10,namecheap,,,24/09/2026 22:50
-438e1f04-1c73-44ef-a87f-89283faed743,government.boutique,available,5.99,32.99,high,low,10,namesilo,,,24/09/2026 22:50
-94ae298e-12f7-45f0-979a-98d7c390a5c6,political.airforce,available,103.99,103.99,high,low,9,namesilo,,,27/09/2026 04:28
-76c57e27-d395-4062-96e5-70b96866d7e7,political.tours,available,10.99,61.99,high,low,9,namesilo,,,27/09/2026 04:28
 f6dfdaf5-332d-4dd8-b6c1-462e6501e19a,government.cars,available,1999.99,2199,high,low,10,namesilo,,,24/09/2026 22:50
-1906b24e-4a14-49f3-8ea2-31d038f22eaa,political.cheap,available,8.99,36.49,high,low,9,namesilo,,,27/09/2026 04:28
-e2752989-c82f-40f3-9b6f-4ae540318957,government.bio,resell,,,high,low,10,"Spaceship, Inc.",04/07/2026 21:13,04/07/2027 21:13,26/09/2026 06:27
 c1cc5772-2c7e-49d4-801a-810e209ca1ef,government.schule,available,28.99,28.99,high,low,10,namesilo,,,24/09/2026 22:50
-d593673b-9490-4983-a228-cd00b5b3998b,government.shop,premium,640,640,high,low,10,namesilo,,,24/09/2026 22:50
-258abdcd-c924-46a0-ac6e-182ec28cfdb0,political.eu,resell,,,high,low,9,Name: eu-tyche.at web invest gmbh & co KG Website: http://www.eu-tyche.at,,,27/09/2026 04:28
-3c9e0ac2-48d3-4227-ba86-73ee197fd9a3,political.place,premium,13,26,high,low,9,namecheap,,,27/09/2026 04:28
-c951af61-d049-4d6a-a525-867c8b5bb9ff,government.theater,available,65.99,65.99,high,low,10,namesilo,,,24/09/2026 22:50
-83b94cc2-d7df-4954-9d9c-9697b1c4dd79,political.apartments,available,57.99,57.99,high,low,9,namesilo,,,27/09/2026 04:28
 5222fc31-b976-4e7f-8ad1-cefa171185d7,government.sexy,available,2998,3298,high,low,10,namecheap,,,24/09/2026 22:50
-82fabe80-a1dd-4719-b198-a3ed4cce2168,government.vet,premium,242,242,high,low,10,namesilo,,,24/09/2026 22:50
-afb87327-e5e6-43c9-bb9f-42ca7a455af4,political.art,premium,3450,83.3,high,low,9,namesilo,,,27/09/2026 04:28
-8429ee3a-5773-481f-b559-f9972ee22247,political.vana,available,2298,2498,high,low,9,namecheap,,,27/09/2026 04:28
 45b0efb0-7301-46d9-80c7-3372f691ce98,political.limited,available,36.99,36.99,high,low,9,namesilo,,,27/09/2026 04:28
-4155fe3e-d5b7-43fe-98c7-1a539c82827a,political.shiksha,available,14.99,51.99,high,low,9,namesilo,,,27/09/2026 04:28
-cba81b5a-43e4-4cf5-ad7b-d61b2ff264d3,government.camera,available,58.99,58.99,high,low,10,namesilo,,,24/09/2026 22:50
 ba37ffbb-313a-4a4c-b421-f4550922bbf6,government.diy,available,5.49,39.99,high,low,10,namesilo,,,24/09/2026 22:50
-202b587c-05f0-4806-bb04-018c35951760,political.pizza,available,17.99,64.99,high,low,9,namesilo,,,27/09/2026 04:28
-7dbffbde-80ea-45be-a9c0-9aae90a02e58,political.camp,available,62.99,62.99,high,low,9,namesilo,,,27/09/2026 04:28
-ea2ae698-cfde-48fa-a9d7-665f07155ef8,political.glass,available,76.98,99.98,high,low,9,namecheap,,,27/09/2026 04:28
-c96c9707-b009-4063-be0a-fdebb1eb6cc6,political.blackfriday,available,114.99,114.99,high,low,9,namesilo,,,27/09/2026 04:28
 84920cb3-8fbb-4e82-b7c8-a2f46c039b06,government.guru,premium,118.8,118.8,high,low,10,namesilo,,,24/09/2026 22:50
 c35ed87d-a85d-44c4-a966-77a65eb6866e,government.law,resell,,,high,low,10,"GoDaddy.com, LLC",14/08/2020 09:09,14/08/2027 09:09,26/09/2026 06:27
 ee5ab216-7324-4b97-8f5e-c29840390aca,government.expert,premium,512,512,high,low,10,namesilo,,,24/09/2026 22:50
 2381cac8-1ae9-4526-8773-228d3948744e,political.business,available,3.98,25.98,high,low,9,namecheap,,,27/09/2026 04:28
-adca8156-5276-4877-9b2d-43efeb08c59d,political.dance,available,16.99,27.49,high,low,9,namesilo,,,27/09/2026 04:28
 98371566-b86d-494f-baa8-9d300e3138dd,government.money,premium,128.7,128.7,high,low,10,namecheap,,,24/09/2026 22:50
-e593138a-ba5c-4513-bd3e-862deb89834c,political.prof,premium,115.7,115.7,high,low,9,namecheap,,,27/09/2026 04:28
-964d3c3c-c2e7-4e25-87a4-e73a51dfcc9a,political.storage,available,509.99,529.99,high,low,9,namesilo,,,27/09/2026 04:28
 16f14e28-1e9d-4550-b46d-b2660d45e0b9,government.restaurant,available,20.99,64.99,high,low,10,namesilo,,,24/09/2026 22:50
-9257a40f-ffc8-46dc-a990-bfb8248f3023,political.memorial,available,52.99,52.99,high,low,9,namesilo,,,27/09/2026 04:28
-d2430135-b316-41f4-b79a-ee95f460a492,political.barcelona,available,38.98,38.98,high,low,9,namecheap,,,27/09/2026 04:28
-8f01cdfc-d997-497b-b99c-4b2f74afa2c0,political.nyc,premium,640,29.5,high,low,9,namesilo,,,27/09/2026 04:28
 50b0b7be-6959-4d4b-b396-2f4e0ee84123,political.gmbh,available,45.99,45.99,high,low,9,namesilo,,,27/09/2026 04:28
-40b3f566-628a-4fe9-bc46-5ae86f345e69,political.camera,available,58.99,58.99,high,low,9,namesilo,,,27/09/2026 04:28
 b4d0178a-3e9f-45c2-b452-79f426f619d9,government.haus,available,14.99,33.99,high,low,10,namesilo,,,24/09/2026 22:50
 51f53858-0f33-4886-a44e-d4069c9e351d,government.video,premium,242,242,high,low,10,namesilo,,,24/09/2026 22:50
 955fca39-77f6-4747-9aa4-2c00cf84890b,government.cards,premium,118.8,118.8,high,low,10,namesilo,,,24/09/2026 22:50
@@ -221,14 +35,9 @@ f9ccf95d-45b5-49cb-aac4-74e7eef195f1,government.kids,premium,53.92,21.24,high,lo
 96a05bbc-9e98-4b1b-b5f8-5b873cd85143,government.city,premium,23.6,23.6,high,low,10,namesilo,,,24/09/2026 22:50
 7e46ef9a-e72d-4293-a1cf-d66497851916,government.vana,available,2298,2498,high,low,10,namecheap,,,24/09/2026 22:50
 dfac68e1-9807-4c75-9fb8-a52ea00faf67,government.dance,available,16.99,27.49,high,low,10,namesilo,,,24/09/2026 22:50
-7330cde6-f5a4-4c02-98f1-47ff661de360,political.kitchen,available,10.99,64.99,high,low,9,namesilo,,,27/09/2026 04:28
-0c8c7e10-73c6-4741-99f7-7bdc70712161,political.sh,available,39.99,47.99,high,low,9,namesilo,,,27/09/2026 04:28
 09e10eae-19ba-4460-a18f-40eb8c66e2a3,government.desi,available,19.98,22.98,high,low,10,namecheap,,,24/09/2026 22:50
-c1d089ea-3c34-4c3d-a5d0-dacf1cffb67c,political.nexus,premium,167.7,167.7,high,low,9,namecheap,,,27/09/2026 04:28
 66bcf63b-39b7-40cf-95af-80a86e02c79b,government.horse,available,32.49,32.49,high,low,10,namesilo,,,24/09/2026 22:50
-fdd40eab-4517-47d7-822f-4e95f9621f72,political.recipes,available,8.99,77.99,high,low,9,namesilo,,,27/09/2026 04:28
 5403e56f-7855-436a-958e-13d44a178664,government.community,premium,128.7,128.7,high,low,10,namecheap,,,24/09/2026 22:50
-da8eeef6-624a-4b73-a9a5-cf82a2be5023,political.mx,available,39.99,43.99,high,low,9,namesilo,,,27/09/2026 04:28
 fce6e90e-6ee2-40a6-a989-2a6db04ec5d3,government.doctor,available,5.98,154.98,high,low,10,namecheap,,,24/09/2026 22:50
 1fa94f47-f5c0-4811-81cb-f1cc15f9b1f3,political.world,premium,85.8,85.8,high,low,9,namecheap,,,27/09/2026 04:28
 0451ec0a-2d95-4da9-877e-20db08a7a2ec,government.cash,premium,512,512,high,low,10,namesilo,,,24/09/2026 22:50
@@ -236,7 +45,6 @@ fce6e90e-6ee2-40a6-a989-2a6db04ec5d3,government.doctor,available,5.98,154.98,hig
 11458f2f-072a-4692-b384-a8dc3562e25f,government.reviews,premium,1040,1040,high,low,10,namecheap,,,24/09/2026 22:50
 fa3ed316-0bae-4c14-b109-cea0a5dd2cce,government.barcelona,available,38.98,38.98,high,low,10,namecheap,,,24/09/2026 22:50
 cc8bef79-6e4f-4a86-ba21-068453ccc98b,government.dating,available,20.99,64.99,high,low,10,namesilo,,,24/09/2026 22:50
-6bcb0ae0-121a-4884-a9ca-9df621470901,political.wedding,available,32.49,32.49,high,low,9,namesilo,,,27/09/2026 04:28
 4adfb2f8-587c-4b94-b93e-02fb944b80b9,political.fans,premium,116,116,high,low,9,namesilo,,,27/09/2026 04:28
 25a9ac34-e44d-41d5-8590-03ead2add6f1,government.family,premium,118.8,118.8,high,low,10,namesilo,,,24/09/2026 22:50
 67aacce1-1b67-419f-af30-6f7d081bac67,government.clothing,available,31.98,35.68,high,low,10,namecheap,,,24/09/2026 22:50
@@ -245,19 +53,15 @@ cc8bef79-6e4f-4a86-ba21-068453ccc98b,government.dating,available,20.99,64.99,hig
 db2c0c29-34ba-4b2e-ab34-9e06636385ab,government.courses,premium,640,640,high,low,10,namesilo,,,24/09/2026 22:50
 fdf98273-c68c-495c-9904-1468545681ed,government.download,premium,455,65,high,low,10,namecheap,,,24/09/2026 22:50
 752d4607-6ead-4a33-a83f-3119852c84b1,government.casa,available,2.19,12.99,high,low,10,namesilo,,,24/09/2026 22:50
-c9574daa-ea2f-454b-b71c-7e6551a65cb3,political.autos,available,1.8,21.98,high,low,9,namecheap,,,27/09/2026 04:28
 272af9db-e425-4ddf-a103-8e54d7931a8b,political.town,available,8.99,36.49,high,low,9,namesilo,,,27/09/2026 04:28
 c3da7f36-eeec-4d47-88d8-0ad37f21077d,government.skin,available,1.8,21.98,high,low,10,namecheap,,,24/09/2026 22:50
-b0baf393-6834-4e1d-ad9e-f55fada179a6,political.skin,available,1.99,17.29,high,low,9,namesilo,,,27/09/2026 04:28
 1d435afe-c043-439c-8984-e19e7b5e1ffa,political.pub,available,39.99,39.99,high,low,9,namesilo,,,27/09/2026 04:28
 46368b78-68fd-4a83-944f-bd773d055038,political.loans,available,20.99,116.99,high,low,9,namesilo,,,27/09/2026 04:28
 eb954f19-e580-4ccd-834b-a7eb5718e7c1,government.health,premium,6900,71.4,high,low,10,namesilo,,,24/09/2026 22:50
 6d8be7a7-28f7-4a5f-9731-6123a48936ed,government.ooo,premium,13869,119.99,high,low,10,namesilo,,,24/09/2026 22:50
 fc9bab90-8aad-434a-a1cb-1b351b852872,political.locker,premium,650,39,high,low,9,namecheap,,,27/09/2026 04:28
 a5e71da8-347e-4fa7-af31-4419a392d74f,government.luxe,available,19.49,19.49,high,low,10,namesilo,,,24/09/2026 22:50
-a2630c11-a6b8-4b21-81aa-cde8e008f84e,political.audio,available,104.99,114.99,high,low,9,namesilo,,,27/09/2026 04:28
 1c79a334-f841-4191-819d-3606b41b4d33,government.kitchen,available,8.98,83.98,high,low,10,namecheap,,,24/09/2026 22:50
-41bf4c27-916e-44c2-b20b-2da3fce981ec,political.style,available,16.99,38.99,high,low,9,namesilo,,,27/09/2026 04:28
 482a7301-e6c8-4a6e-8b52-5fd08d42ff84,political.hosting,available,309.99,429.99,high,low,9,namesilo,,,27/09/2026 04:28
 0088a603-3da1-43bc-9206-2d572b336194,government.charity,available,14.99,23.99,high,low,10,namesilo,,,24/09/2026 22:50
 e2d62e88-975e-476a-a11c-0f34c7a54026,political.ing,premium,845,845,high,low,9,namecheap,,,27/09/2026 04:28
@@ -275,6 +79,7 @@ e582e945-ba45-4386-a9b4-3a6bd6a9af27,government.gmbh,available,45.99,45.99,high,
 3c32733a-8c50-4124-8512-7462871e8f71,political.download,premium,116,29.5,high,low,9,namesilo,,,27/09/2026 04:28
 99e286d6-da43-49aa-8061-531662e5d342,government.cn,resell,,,high,low,10,PDR Ltd. d/b/a PublicDomainRegistry.com,,,26/09/2026 06:27
 e345ddb2-4e31-4b22-afba-5a19e39e29ea,political.coach,available,17.99,77.99,high,low,9,namesilo,,,27/09/2026 04:28
+d9133b81-a36f-4f4b-a0c5-c1444ce3ac01,government.voto,premium,128.7,128.7,high,low,10,namecheap,,,24/09/2026 22:50
 4c5138af-b41c-4117-8cda-7b32455ad5bf,political.motorcycles,available,1.99,17.29,high,low,9,namesilo,,,27/09/2026 04:28
 9c1d7170-9ef1-45ef-b519-e523d2694f94,political.boutique,available,2.98,41.98,high,low,9,namecheap,,,27/09/2026 04:28
 54cafab2-bfea-406d-9439-a10c180a3781,government.limo,available,54.99,54.99,high,low,10,namesilo,,,24/09/2026 22:50
@@ -361,6 +166,7 @@ abdfca6f-82b5-4953-9ac6-8be45cd86177,political.design,premium,116,116,high,low,9
 fc7394f4-d346-4ef4-8828-f3b83c2cdb30,government.credit,premium,242,242,high,low,10,namesilo,,,24/09/2026 22:50
 1af7f93d-b505-4544-ae44-c2e6dccd295c,government.kim,available,12.99,23.49,high,low,10,namesilo,,,24/09/2026 22:50
 f6c9ca7c-97b8-4f4a-a924-8e41801a879b,government.autos,available,1.99,17.29,high,low,10,namesilo,,,24/09/2026 22:50
+82169b3a-faa5-4d60-b832-06a14b1c6728,government.vote,premium,192,192,high,low,10,namesilo,,,24/09/2026 22:50
 e3e97a3c-3da7-45bd-9852-7323666810b6,government.xyz,resell,,,high,low,10,Dynadot Inc,17/08/2021 01:03,17/08/2027 23:59,26/09/2026 06:27
 b86d1c86-a692-4a05-bf67-9ca33125afc7,political.work,available,2.99,12.99,high,low,9,namesilo,,,27/09/2026 04:28
 13127f5c-7aa5-4bdf-92ce-0da6e955c8b1,political.coffee,available,6.98,47.98,high,low,9,namecheap,,,27/09/2026 04:28
@@ -472,6 +278,7 @@ b2437f3c-79f9-451b-b96f-03e0b77439b4,political.kiwi,premium,81.9,81.9,high,low,9
 1cb588f5-f293-441b-bd06-ee4d5f191e95,government.com,resell,,,high,low,10,"NameCheap, Inc.",17/02/1999 05:00,17/02/2027 05:00,26/09/2026 06:27
 f877a52d-4e0c-4ead-a45c-4764fc768d8c,political.villas,available,59.99,59.99,high,low,9,namesilo,,,27/09/2026 04:28
 78bebb2c-8096-450c-8788-ebcec2692a4a,government.holiday,available,64.99,64.99,high,low,10,namesilo,,,24/09/2026 22:50
+1f9cde1f-34d5-4b9e-a268-37d5e7a19f3b,political.republican,available,7.49,28.99,high,low,9,namesilo,,,27/09/2026 04:28
 5c5d09f6-b4f3-44bb-8446-9ed3cbd47760,political.direct,available,17.99,41.99,high,low,9,namesilo,,,27/09/2026 04:28
 e7d4de55-bcd7-4264-9a6f-056c45f0b765,government.beer,available,1.98,43.98,high,low,10,namecheap,,,24/09/2026 22:50
 32cad4f1-3fb4-4ffc-b8eb-6c4248fea4fc,political.vc,available,32.98,41.98,high,low,9,namecheap,,,27/09/2026 04:28
@@ -591,6 +398,7 @@ dbc3f3ec-bd42-4b6c-8211-1fdca7c25ac0,government.viajes,available,37.99,37.99,hig
 aa6f70b5-cdf3-4efc-ba2e-a9f791032b2f,government.link,premium,960,960,high,low,10,namesilo,,,24/09/2026 22:50
 ae8dc237-c496-4839-926a-9e880b05bfb8,political.rsvp,premium,76.7,76.7,high,low,9,namecheap,,,27/09/2026 04:28
 239f7cf3-62fb-4be2-84d2-00e3c2ea9bf8,political.archi,available,19.99,103.99,high,low,9,namesilo,,,27/09/2026 04:28
+258f4415-9d3b-43ff-8727-6e84fff69bc1,government.country,available,2298,2450,high,low,10,namecheap,,,24/09/2026 22:50
 dfc8c605-decb-4832-b352-d9029c1665c3,political.vin,available,8.99,59.99,high,low,9,namesilo,,,27/09/2026 04:28
 95cd1373-a849-48d0-91a9-c1b66b209099,government.help,resell,,,high,low,10,"NameSilo, LLC",24/11/2017 23:27,24/11/2026 23:59,26/09/2026 06:27
 9cc7f16a-3db0-4cbf-9194-13606c03e346,political.mom,available,1.8,45.98,high,low,9,namecheap,,,27/09/2026 04:28
@@ -613,6 +421,7 @@ d82cbe33-4bb8-467a-95c4-3aef3433c65d,political.garden,available,1.98,43.98,high,
 deef718f-b887-43a6-abee-07bffc9474b0,government.repair,available,12.99,36.99,high,low,10,namesilo,,,24/09/2026 22:50
 0aa6a0dc-d61f-41b4-832c-fab12799da56,political.onl,available,3.48,28.98,high,low,9,namecheap,,,27/09/2026 04:28
 4f1343a1-da31-4a0d-8822-04ba6b3f02ea,government.tax,premium,854,854,high,low,10,namesilo,,,24/09/2026 22:50
+5bea0491-2fe9-451b-af86-7e62558ef33b,government.srl,premium,54.28,30.68,high,low,10,namesilo,,,24/09/2026 22:50
 5b41c5a9-dc2f-49e0-9d0c-6778d28d0c3a,government.tel,available,10.98,15.98,high,low,10,namecheap,,,24/09/2026 22:50
 3a97878e-bb67-4a25-a689-884b593854b8,political.haus,available,14.99,33.99,high,low,9,namesilo,,,27/09/2026 04:28
 d8e8b426-7805-49a3-a5ed-a273e9c24c83,political.codes,available,8.99,71.99,high,low,9,namesilo,,,27/09/2026 04:28
@@ -640,7 +449,6 @@ c4a47564-7a03-42f2-a685-5bddefc0f332,government.cooking,available,32.49,32.49,hi
 dd5e4b76-864a-4b8d-baff-f1cad1a3b0cc,political.website,premium,1107,1107,high,low,9,namesilo,,,27/09/2026 04:28
 39f8dc66-6371-4a98-bea7-31b502a516da,political.dating,available,12.98,86.98,high,low,9,namecheap,,,27/09/2026 04:28
 2a36822d-5000-42b2-aba2-6ea667ec94f4,political.id,resell,,,high,low,9,PT Digital Registra Indonesia,08/10/2024 00:54,08/10/2027 23:59,27/09/2026 04:28
-16c59546-924c-42df-89d8-f976d30ab2f4,policy.ceo,available,10.19,129.99,high,low,6,namesilo,,,25/09/2026 12:59
 b54e899f-c887-426e-841a-44b243328e34,government.insure,available,72.99,72.99,high,low,10,namesilo,,,24/09/2026 22:50
 fc9b4522-5998-4c21-8ea6-bff21ada78e6,political.kaufen,available,5.99,26.99,high,low,9,namesilo,,,27/09/2026 04:28
 2de90fc2-7009-4cc4-ad21-4b3aed72883d,political.christmas,available,34.99,34.99,high,low,9,namesilo,,,27/09/2026 04:28
@@ -650,6 +458,7 @@ aa6fba21-777d-4d8a-87a4-e015f79690ed,government.bingo,available,53.99,53.99,high
 11bb4a81-1da9-47b8-a869-895f25afc293,political.berlin,available,79.98,89.98,high,low,9,namecheap,,,27/09/2026 04:28
 8bbcc7da-b40b-4306-91d5-349394bb25ec,political.events,premium,128.7,128.7,high,low,9,namecheap,,,27/09/2026 04:28
 e27cd246-b578-4adb-b9c4-2e8bc3debf51,political.film,premium,1107,1107,high,low,9,namesilo,,,27/09/2026 04:28
+812d3abb-0f70-4f9d-ac5d-a4e6b4454150,election.voto,premium,650,650,high,low,8,namecheap,,,29/09/2026 17:51
 8300a987-0f06-40d3-86b0-306fa2f3db38,political.directory,available,8.99,26.99,high,low,9,namesilo,,,27/09/2026 04:28
 6eec4c44-67d4-44a0-b86a-c7606397052f,political.kim,available,12.99,23.49,high,low,9,namesilo,,,27/09/2026 04:28
 beb4f240-c015-4878-9d1d-fde7277da815,political.deals,available,39.99,39.99,high,low,9,namesilo,,,27/09/2026 04:28
@@ -664,11 +473,14 @@ ca6e7c4d-626a-4719-b67d-41473409cb10,political.fail,premium,78.54,78.54,high,low
 aec70bf0-ab99-43be-9d43-81d977233a13,government.plus,resell,,,high,low,10,"Chengdu West Dimension Digital Technology Co., Ltd.",31/08/2024 17:00,31/08/2027 17:00,26/09/2026 06:27
 31ea21f2-cdbd-4ecb-b30e-0646ffcbb373,government.show,available,18.99,44.49,high,low,10,namesilo,,,24/09/2026 22:50
 7d25b2e5-9c24-4b87-b0c0-340e083ae354,political.vet,available,41.99,41.99,high,low,9,namesilo,,,27/09/2026 04:28
+986ed567-516f-49bd-aafb-41a86500a39a,government.zone,premium,128.7,128.7,high,low,10,namecheap,,,24/09/2026 22:50
 0ce4c920-dfa7-4ab2-9628-9962e9987230,government.surf,available,1.98,43.98,high,low,10,namecheap,,,24/09/2026 22:50
 0b85218f-468f-45a2-ba5d-256c8e3abdd2,political.meme,premium,195,195,high,low,9,namecheap,,,27/09/2026 04:28
-812d3abb-0f70-4f9d-ac5d-a4e6b4454150,election.voto,premium,625,,high,low,8,name.com,,,
+e6431d2a-710e-4f73-b7c8-27149e7b8114,political.ceo,available,9.99,146.98,high,low,9,namecheap,,,27/09/2026 04:28
 9c3573f0-6d7b-44a0-8895-fca63d036aad,political.fish,available,46.98,59.98,high,low,9,namecheap,,,27/09/2026 04:28
 d9450b5b-51e7-471e-ad98-04ada2dc4e93,political.review,premium,1107,116,high,low,9,namesilo,,,27/09/2026 04:28
+fbbee8ef-08b6-48c4-a0a1-6b8fa2bcf145,government.lawyer,premium,1107,1107,high,low,10,namesilo,,,24/09/2026 22:50
+8940173b-00e0-45ec-978a-074bf9fa79c1,government.management,premium,118.8,118.8,high,low,10,namesilo,,,24/09/2026 22:50
 379132ac-76f2-4b22-8ac5-d01333db619e,political.health,premium,1107,71.4,high,low,9,namesilo,,,27/09/2026 04:28
 5a63efd7-d8ab-4a09-9384-5cd56f04821d,government.gifts,available,36.99,36.99,high,low,10,namesilo,,,24/09/2026 22:50
 5c59528d-8653-46ca-9ac2-5b61e77cae6d,political.build,premium,1950,1950,high,low,9,namecheap,,,27/09/2026 04:28
@@ -689,31 +501,36 @@ f9131a21-603c-4428-80e6-bded31db2069,government.forex,available,11.98,133.98,hig
 af0a699b-4ab7-4e43-a61a-eee812e7736f,government.parts,premium,78.54,78.54,high,low,10,namesilo,,,24/09/2026 22:50
 f51d8c34-9a48-41a0-839e-fed892a17ade,government.realty,premium,910,1300,high,low,10,namecheap,,,24/09/2026 22:50
 b02232b6-da14-4a5a-8cfb-4a6e53da3d0a,political.cat,available,26.98,38.98,high,low,9,namecheap,,,27/09/2026 04:28
+ede2e141-59f1-4e30-9795-903599147772,political.sarl,available,6.99,6.99,high,low,9,namesilo,,,27/09/2026 04:28
 41e4128f-8976-43f6-b50e-08a1d0e09172,government.army,premium,78,78,high,low,10,namecheap,,,24/09/2026 22:50
+b5e36973-99f2-4acc-a1f3-174a2e79dc82,government.sbs,premium,68.43,147.2,high,low,10,namesilo,,,24/09/2026 22:50
+301dd1d2-d32c-490c-b1cb-1c8a7d365593,government.dev,premium,421.12,421.12,high,low,10,namesilo,,,24/09/2026 22:50
 35f9ec73-a55c-4c69-8aa6-07f32696afeb,political.bot,premium,640,640,high,low,9,namesilo,,,27/09/2026 04:28
+53ef292d-1712-4d37-9ee7-c8885ec77c49,government.io,resell,,,high,low,10,"GoDaddy.com, LLC",08/09/2020 14:32,08/09/2027 14:32,26/09/2026 06:27
 37f183cc-e282-4264-91d3-ef51d0164d85,political.soccer,available,25.99,25.99,high,low,9,namesilo,,,27/09/2026 04:28
 7c4e69a8-2980-4f02-98ae-1175471ad697,political.sale,available,7.49,38.99,high,low,9,namesilo,,,27/09/2026 04:28
 d7bd9614-98ac-46fc-bc87-45ac6907e7af,government.tours,available,10.99,61.99,high,low,10,namesilo,,,24/09/2026 22:50
 65b16f9c-683e-4eb7-b41d-14999e158d15,political.tickets,available,393.98,608.98,high,low,9,namecheap,,,27/09/2026 04:28
 125e7662-8352-437a-885a-6980f40de0b2,political.fund,premium,854,854,high,low,9,namesilo,,,27/09/2026 04:28
 71d247cc-4456-46cc-bb47-89c071610184,political.study,premium,242,242,high,low,9,namesilo,,,27/09/2026 04:28
+0adabede-3caf-4c2f-83ba-d47b5b962e3a,policy.democrat,premium,102.67,102.67,high,low,6,spaceship,,,30/09/2026 00:13
 2039be6c-b3e2-4a25-be14-ec589505ed8f,political.company,available,20.99,20.99,high,low,9,namesilo,,,27/09/2026 04:28
 244a04d1-0540-4fc5-9aed-f81f879bb79f,political.moi,available,25.99,25.99,high,low,9,namesilo,,,27/09/2026 04:28
 9fe9f54b-426d-46e4-82d0-2aed68c7cf7b,political.university,premium,118.8,118.8,high,low,9,namesilo,,,27/09/2026 04:28
 59e75393-5ce0-415a-8964-28322c36d8eb,government.gift,available,14.99,14.99,high,low,10,namesilo,,,24/09/2026 22:50
 22b4e736-a9b4-4c13-9dde-cbb51415b664,political.rodeo,available,12.99,12.99,high,low,9,namesilo,,,27/09/2026 04:28
-ac77dc55-9cd2-4371-b251-dbc439643129,policy.company,available,,,high,low,6,,,,
 1e40e5a2-aee5-4299-a129-8154bd7b414e,political.immo,available,34.99,34.99,high,low,9,namesilo,,,27/09/2026 04:28
 4b424ac5-186e-4aa0-bcdc-18dc4e2ee6c0,government.careers,premium,512,512,high,low,10,namesilo,,,24/09/2026 22:50
-0adabede-3caf-4c2f-83ba-d47b5b962e3a,policy.democrat,premium,118.8,118.8,high,low,6,namesilo,,,
+1f7f9f91-c7c5-44d1-b227-199b9b56a13b,government.promo,available,14.49,24.99,high,low,10,namesilo,,,24/09/2026 22:50
+1d22c9b3-ae1e-4fe7-ab51-00651afdd223,government.immo,available,34.99,34.99,high,low,10,namesilo,,,24/09/2026 22:50
 f06d46d9-c362-4f99-88f4-26cd34949559,political.creditcard,available,144.99,144.99,high,low,9,namesilo,,,27/09/2026 04:28
 f1373faf-b568-4211-aca4-14b67c66cc01,government.uno,premium,1107,1107,high,low,10,namesilo,,,24/09/2026 22:50
 e4f77b6e-fc9b-4746-bda4-eef624e3638b,political.spot,premium,116,116,high,low,9,namesilo,,,27/09/2026 04:28
 7762505d-ee1c-4a87-8de0-82549a174044,political.family,available,39.99,39.99,high,low,9,namesilo,,,27/09/2026 04:28
 53134b1e-5839-40bf-9768-f19b0d6908f8,political.lat,available,1.8,40.98,high,low,9,namecheap,,,27/09/2026 04:28
+30bc6ff5-9a2f-4da2-b927-147a2b07212b,government.esq,premium,427.7,427.7,high,low,10,namecheap,,,24/09/2026 22:50
 b7714d76-fbf0-4e1c-85d3-68d9c14cd4af,political.bz,available,21.98,26.98,high,low,9,namecheap,,,27/09/2026 04:28
 39686aca-0537-47fd-a829-5b0168cbeee6,government.movie,available,40.98,446.98,high,low,10,namecheap,,,24/09/2026 22:50
-6a1beb4c-c9ab-468d-b669-5a8064cf3645,policy.marketing,available,9.99,,high,low,6,name.com,,,
 ff0ef5b7-4337-4bb7-8fca-303884e1bfb2,government.vin,available,8.99,59.99,high,low,10,namesilo,,,24/09/2026 22:50
 496ef112-52d8-4aff-8d63-0bd2c1a910fc,political.actor,premium,242,242,high,low,9,namesilo,,,27/09/2026 04:28
 9f597bbd-be6b-4ecc-9885-a41a28c5d56e,government.qpon,premium,3450,23.54,high,low,10,namesilo,,,24/09/2026 22:50
@@ -724,278 +541,461 @@ fc939bec-e0bd-4594-b507-2095759802bd,government.discount,premium,242,242,high,lo
 6d8118b0-36c3-455d-915f-82632efba786,government.black,available,27.99,64.99,high,low,10,namesilo,,,24/09/2026 22:50
 5cf5c27e-4503-4674-8735-e62b56cce915,political.boston,available,23.49,23.49,high,low,9,namesilo,,,27/09/2026 04:28
 b50e1b6c-71e6-4b39-939d-b871883c4b97,political.properties,available,18.99,39.99,high,low,9,namesilo,,,27/09/2026 04:28
+d11294c2-6c25-4b47-9a2c-511a83d72d24,government.cool,available,9.49,44.99,high,low,10,namesilo,,,24/09/2026 22:50
 7c27cb5c-9bc2-4d34-a24b-4e656c2357c5,government.deal,premium,116,116,high,low,10,namesilo,,,24/09/2026 22:50
 ccb12660-56e5-4423-9eba-3e4316fb7192,political.toys,available,17.99,64.99,high,low,9,namesilo,,,27/09/2026 04:28
 74fdcff8-399f-494f-9919-b27c8538f00b,political.equipment,available,28.99,28.99,high,low,9,namesilo,,,27/09/2026 04:28
 48e5b7bd-0065-48a5-9ac2-16368a85446e,political.vegas,available,19.98,64.98,high,low,9,namecheap,,,27/09/2026 04:28
+11ce5c4d-e3e1-45f9-9aa8-55a50f3bff07,government.bar,available,2.8,81.98,high,low,10,namecheap,,,24/09/2026 22:50
+1ba1402f-147e-4dc3-a850-69a9560c8aaf,government.racing,premium,130,130,high,low,10,namecheap,,,24/09/2026 22:50
 adea0d16-bb88-48e6-bb16-90826055ec74,political.band,available,20.99,31.49,high,low,9,namesilo,,,27/09/2026 04:28
 e4297090-0378-4c32-9563-830bc213b066,political.realty,available,109.99,299,high,low,9,namesilo,,,27/09/2026 04:28
-204b1cef-7dc8-44ad-9bc9-04a16162b228,party.democrat,premium,242,242,high,medium,5,namesilo,,,19/09/2026 09:39
-13d1e8d7-6d32-4a6b-857c-f9a848612adf,policy.voting,available,1448,,high,low,6,namecheap,,,
+13d1e8d7-6d32-4a6b-857c-f9a848612adf,policy.voting,available,978.6,978.6,high,low,6,dynadot,,,30/09/2026 00:13
 77cafcad-7a7e-4455-b257-70d049c59e93,political.run,premium,23.6,23.6,high,low,9,namesilo,,,27/09/2026 04:28
-a4dc93f5-39c2-4c20-a9aa-623f200f0ef3,policy.store,premium,312.5,,high,low,6,name.com,,,
+548878e7-b38c-4dee-80dd-f7558d637260,government.ceo,premium,254.72,254.72,high,low,10,namesilo,,,24/09/2026 22:50
 e8c0356c-a2d3-4fed-9c45-a860cd5cdbf4,political.mortgage,available,62.99,62.99,high,low,9,namesilo,,,27/09/2026 04:28
+40853902-53bb-4c4e-8965-62e07e229979,government.solutions,premium,520,520,high,low,10,namecheap,,,24/09/2026 22:50
+274d2bca-8609-4e9b-a5a4-cf17ce8fa0cd,political.ninja,premium,118.8,118.8,high,low,9,namesilo,,,27/09/2026 04:28
+f4013b94-276a-4288-841f-95f108096998,government.accountants,premium,118.8,118.8,high,low,10,namesilo,,,24/09/2026 22:50
+7b0f38f0-3bf1-4dcc-83ca-728577dd9ddc,government.sucks,premium,13800,2658.67,high,low,10,namesilo,,,24/09/2026 22:50
 30b8960f-5ef7-48c4-96ce-e6f7608109ff,government.trade,resell,,,high,low,10,Dynadot Inc,08/09/2026 00:01,08/09/2027 00:01,26/09/2026 06:27
-d6a8be92-24c9-4eb8-a8b6-90bafc21f1b9,election.ceo,available,10.19,109.99,high,low,8,namesilo,,,
+bd2dca0d-dccb-43e3-b388-70ea612ffa84,government.university,premium,78.54,78.54,high,low,10,namesilo,,,24/09/2026 22:50
+57c8dcf1-4173-49b4-8bd0-3a1d0281c39e,government.town,available,8.99,36.49,high,low,10,namesilo,,,24/09/2026 22:50
+cf300a64-3dfc-4b5d-8063-eb5292872f26,policy.republican,premium,102.67,102.67,high,low,6,spaceship,,,30/09/2026 00:13
 6b739151-ce34-426e-a434-6daf4dd2669c,government.singles,available,9.49,33.99,high,low,10,namesilo,,,24/09/2026 22:50
+723e3f10-35fa-4a7a-a523-0d43f82c7f42,government.motorcycles,available,1.99,17.29,high,low,10,namesilo,,,24/09/2026 22:50
+63ac98a5-bac1-4a74-891c-363d7c824aff,government.forsale,premium,118.8,118.8,high,low,10,namesilo,,,24/09/2026 22:50
 aad4dae0-d131-4a1d-a50b-362c7c1bb3f3,political.partners,available,20.99,71.99,high,low,9,namesilo,,,27/09/2026 04:28
+e9ff52f3-24a8-473a-b509-cb658727d4a6,government.red,resell,,,high,low,10,"Spaceship, Inc.",16/05/2019 05:49,16/05/2027 05:49,26/09/2026 06:27
 68c7bb23-c0a1-4208-b053-8276b1455c00,political.credit,available,11.49,104.99,high,low,9,namesilo,,,27/09/2026 04:28
-cf300a64-3dfc-4b5d-8063-eb5292872f26,policy.republican,premium,118.8,118.8,high,low,6,namesilo,,,
+542e45ec-107b-4b60-8552-89578e8251d9,government.reisen,available,3.99,20.99,high,low,10,namesilo,,,24/09/2026 22:50
+b6e1888b-5afb-41d1-a9df-e92c1b555b3c,government.clinic,premium,242,242,high,low,10,namesilo,,,24/09/2026 22:50
+fb105da3-b62a-4b4b-b2fb-1dad3bddb3b4,government.host,premium,325,650,high,low,10,namecheap,,,24/09/2026 22:50
+659628de-3222-4227-8f26-640fb086209b,government.vodka,available,32.49,32.49,high,low,10,namesilo,,,24/09/2026 22:50
 73b25597-cfc2-48e2-a840-fa85526ee450,political.land,available,15.99,41.99,high,low,9,namesilo,,,27/09/2026 04:28
 24ac6815-069b-48c7-b1e0-8d0afd192941,political.pink,available,6.48,31.48,high,low,9,namecheap,,,27/09/2026 04:28
-88f22bd7-781b-46c0-91b9-cecc90866def,policy.solutions,resell,,,high,low,6,Squarespace Domains II LLC,25/06/2021 08:20,25/06/2027 08:20,26/09/2026 08:14
-b5861c4a-26bb-434c-a7e0-e50c354d0c48,party.voto,premium,128.7,128.7,high,medium,5,namecheap,,,19/09/2026 09:39
+8509480a-40cf-40b0-a71a-654f46615f1d,government.express,available,12.49,39.99,high,low,10,namesilo,,,24/09/2026 22:50
 b5959113-9682-42f2-91dd-099388a89fdb,political.delivery,available,2.98,79.98,high,low,9,namecheap,,,27/09/2026 04:28
+5396783c-c22c-4669-867c-eb10f207391a,government.productions,available,10.99,40.49,high,low,10,namesilo,,,24/09/2026 22:50
+928a20b8-f73e-4611-8aeb-6b2f261d2963,government.golf,available,7.49,64.99,high,low,10,namesilo,,,24/09/2026 22:50
 90f8f266-edde-44fe-9c93-fb7e02d3aaa1,political.ac,available,34.99,47.99,high,low,9,namesilo,,,27/09/2026 04:28
-b2bbd69b-2a14-4e06-b4a9-2ff82ac08794,democracy.democrat,available,9.99,,high,low,9,name.com,,,
+63eac9db-195e-4a21-abd1-467f9f7b1c0b,government.associates,premium,85.8,85.8,high,low,10,namecheap,,,24/09/2026 22:50
+b2bbd69b-2a14-4e06-b4a9-2ff82ac08794,democracy.democrat,available,7.25,32.99,high,low,9,namesilo,,,29/09/2026 13:54
+47dbba4f-0486-4ab0-8881-5fb834aa0ffb,government.creditcard,premium,242,242,high,low,10,namesilo,,,24/09/2026 22:50
+b1a7ff38-fc3c-423e-96e6-962850691fb8,government.shoes,available,64.99,64.99,high,low,10,namesilo,,,24/09/2026 22:50
 bed489f1-6cf4-421f-b5dd-a33462b0122a,political.diet,available,108.98,159.98,high,low,9,namecheap,,,27/09/2026 04:28
+aa5722a0-b279-4a31-b4e2-b7800b321b8a,political.online,premium,3450,3450,high,low,9,namesilo,,,27/09/2026 04:28
 d176eee2-6bc2-4e89-8c2e-765aa7ea6a44,political.homes,available,1.8,21.98,high,low,9,namecheap,,,27/09/2026 04:28
-e5a055b4-2b35-47b7-9729-60fc06302464,election.ing,premium,437.5,,high,low,8,name.com,,,
-4b264593-54ae-4309-b1eb-cb0ddf943f3b,policy.cloud,resell,,,high,low,6,GoDaddy,22/07/2019 00:27,22/07/2027 00:27,26/09/2026 08:14
-7a170b58-a519-4e75-9cf5-b9e3b1d86483,policy.credit,available,11.99,,high,low,6,name.com,,,
+9dddf07e-bd9a-4a3b-976b-faf48423b767,government.rsvp,premium,323.7,323.7,high,low,10,namecheap,,,24/09/2026 22:50
+b274f286-86f2-41c3-ac85-0a4d3ae9dd86,political.ngo,available,18.98,24.98,high,low,9,namecheap,,,27/09/2026 04:28
+a9ed20a4-9c3d-44f7-9ba8-aab7308f40f0,government.art,premium,354.9,91,high,low,10,namecheap,,,24/09/2026 22:50
+4d46af86-f243-4aea-8684-de12d209883a,government.space,premium,3450,3450,high,low,10,namesilo,,,24/09/2026 22:50
+c4b2565e-8aa1-43c2-b991-9a31e50748ef,election.republican,premium,220,220,high,low,8,dynadot,,,29/09/2026 17:51
+30286116-f316-4fa2-83cd-c784059321f6,political.expert,premium,128.7,128.7,high,low,9,namecheap,,,27/09/2026 04:28
+b4ffd7fb-80d2-40c1-9d0b-7fc419151c57,government.tienda,available,59.99,59.99,high,low,10,namesilo,,,24/09/2026 22:50
+f0e4a163-2129-443e-bd2a-c08fd96c5047,government.taxi,available,10.99,62.99,high,low,10,namesilo,,,24/09/2026 22:50
 651002a1-3e84-4d2d-b6e9-22552cf1d8f6,political.eco,premium,180.05,74.75,high,low,9,namecheap,,,27/09/2026 04:28
+26a99f67-ed6d-4427-bec5-2ac9b128afb5,government.blackfriday,available,128.98,134.98,high,low,10,namecheap,,,24/09/2026 22:50
+eb4ed914-fb40-402a-8af4-6ac11e4b11fe,government.salon,available,57.99,57.99,high,low,10,namesilo,,,24/09/2026 22:50
 abf1434b-95d7-49aa-802a-bb6a93783671,political.maison,available,57.99,57.99,high,low,9,namesilo,,,27/09/2026 04:28
+d90beb18-f92a-471b-8ae9-154b48791553,government.style,available,7.98,49.98,high,low,10,namecheap,,,24/09/2026 22:50
 16de5798-2e15-4b6c-b86b-8cb7c206a1b7,political.auto,available,1999.99,2199,high,low,9,namesilo,,,27/09/2026 04:28
-61e2f687-f92b-4c4b-8188-813516b5cb60,policy.press,premium,937.5,,high,low,6,name.com,,,
-b512e49b-6297-468c-ab67-b3835bc3c4ae,politics.inc,premium,2061.5,2660,high,low,8,namesilo,,,27/09/2026 05:03
-06bf85b3-1c14-4876-8344-a03060c85bac,policy.flowers,available,64.99,114.99,high,low,6,namesilo,,,
-c4b2565e-8aa1-43c2-b991-9a31e50748ef,election.republican,premium,242,242,high,low,8,namesilo,,,
-0eedbc00-345c-4199-9c90-9e21f42b27a0,election.town,available,9.99,,high,low,8,name.com,,,
+c8db3ba2-22e7-4c9f-9d20-2457e3572362,government.loans,premium,512,512,high,low,10,namesilo,,,24/09/2026 22:50
 69ee1b49-bfa5-4561-b07b-e23355a1619b,political.lifestyle,available,1.8,48.98,high,low,9,namecheap,,,27/09/2026 04:28
 172ef220-2229-4a4b-a6a6-7b2306aae7e4,political.tienda,available,59.99,59.99,high,low,9,namesilo,,,27/09/2026 04:28
-f5e6fd20-2552-4874-a00a-9d792ab5b144,election.menu,available,27.99,27.99,high,low,8,namesilo,,,
+a9b941f0-a53d-4009-8032-58eca82d7183,government.maison,available,60.98,69.98,high,low,10,namecheap,,,24/09/2026 22:50
+44766c78-48fc-49af-a4db-ca7bf9eb848c,political.fun,premium,3450,3450,high,low,9,namesilo,,,27/09/2026 04:28
 595150e4-c68d-43a5-bc8f-6231edadd33c,political.bid,available,5.25,6.25,high,low,9,namesilo,,,27/09/2026 04:28
-25705d27-336a-443d-8d83-d12bb8ca7937,politics.holdings,available,64.99,64.99,high,low,8,namesilo,,,27/09/2026 05:03
-3516dc4f-c3c3-44f0-9f54-c11286a533b6,administration.inc,premium,1604.45,2070.2,high,low,14,spaceship,,,28/09/2026 03:19
-534aee0f-fc22-4776-8b14-ebd52b30f3d2,policy.domains,available,19.99,,high,low,6,name.com,,,
-656b126e-657e-4ba7-991a-05a275601d01,policy.kiwi,available,35.68,,high,low,6,namecheap,,,
 855d5a62-93b7-474d-8947-a46ff63df6e9,political.rich,available,94.99,1999,high,low,9,namesilo,,,27/09/2026 04:28
-99c6218c-6051-41aa-b807-a3dddbecfd20,policy.diamonds,available,54.99,54.99,high,low,6,namesilo,,,
-b13927cf-4f09-4899-a735-fbc1675a3213,policy.cool,available,9.99,,high,low,6,name.com,,,
-c78fe00e-775e-4697-8cbd-9ba8b5051d11,policy.irish,available,9.99,,high,low,6,name.com,,,
-a97ef3a9-5266-4ae9-9e71-dd4e493d879b,policy.barcelona,available,38.98,,high,low,6,namecheap,,,
-b5ce8dad-e7ae-4ae1-ab5a-86d937fbe1c8,election.attorney,premium,3750,,high,low,8,name.com,,,
-002c9527-c5ee-464f-b583-24beb6d87378,policy.hiphop,available,,,high,low,6,,,,
 9ea1a1c7-0ec4-447a-b92e-5080c638e865,political.xxx,available,69.98,154.98,high,low,9,namecheap,,,27/09/2026 04:28
-f2925043-725d-42d3-911d-a58f64b9f933,policy.lighting,available,14.99,,high,low,6,name.com,,,
-77d6223b-7ae4-44ce-a671-b6be73769977,election.ong,premium,62.5,,high,low,8,name.com,,,
-bf122afc-436d-4ab0-8ad8-6da10c0c57d9,policy.protection,available,1999.99,2049.99,high,low,6,namesilo,,,
 9baa770f-595c-498c-8154-f93a2cce2108,political.dental,available,78.99,78.99,high,low,9,namesilo,,,27/09/2026 04:28
+237ab458-7485-4e4f-a870-1860784777ed,political.casa,available,1.98,17.98,high,low,9,namecheap,,,27/09/2026 04:28
+b1b6460d-dd47-42aa-8ee8-3463f1adc69d,government.surgery,available,54.99,54.99,high,low,10,namesilo,,,24/09/2026 22:50
 4285465e-214d-4147-903a-8866facb356f,political.irish,available,7.49,22.49,high,low,9,namesilo,,,27/09/2026 04:28
-939b74ce-bf2f-462f-9fa2-67d6261fd5fe,policy.tel,available,10.79,10.79,high,low,6,namesilo,,,
-a2f6a9ba-77e9-4503-b65f-0f84d43149d1,policy.rodeo,available,12.99,12.99,high,low,6,namesilo,,,
-1b71e74f-f297-43bd-b988-13cacc4bd8a3,election.lawyer,premium,3750,,high,low,8,name.com,,,
-d0cae6eb-5b3a-4f1d-8d45-763ccc7f5543,policy.fitness,available,9.99,,high,low,6,name.com,,,
+3edaa50d-e381-4285-9943-32b77b11a2c8,political.sucks,available,218.99,218.99,high,low,9,namesilo,,,27/09/2026 04:28
+562ebe87-c5f1-4d30-97be-a3eaf382eecf,government.social,premium,118.8,118.8,high,low,10,namesilo,,,24/09/2026 22:50
 1bcab598-242b-4005-bb54-f52d25efb46f,political.new,available,488.98,601.98,high,low,9,namecheap,,,27/09/2026 04:28
+c892b7da-8f2f-4a3c-a702-e3d3125c6fac,political.organic,available,17.99,85.99,high,low,9,namesilo,,,27/09/2026 04:28
+f9677805-81f3-4861-b655-d94f2be95848,government.protection,available,2070,2950,high,low,10,namecheap,,,24/09/2026 22:50
+516358ec-7142-44d5-89af-040f0893b4cf,government.trading,available,21.98,27.98,high,low,10,namecheap,,,24/09/2026 22:50
 a316e660-60d6-4c83-ac3d-41ead3ad5663,political.bargains,available,14.98,37.98,high,low,9,namecheap,,,27/09/2026 04:28
-15133d90-28f4-4153-b667-72ba3d2e330c,policy.jetzt,available,9.99,,high,low,6,name.com,,,
-52349041-e937-47ed-8ea5-78c0ab65ecfc,election.auto,available,1999.99,2199,high,low,8,namesilo,,,
-90d130f6-6f1b-4eac-b9d8-17035526440e,election.bargains,available,21.99,,high,low,8,name.com,,,
-e421bc02-1c21-4e1c-935e-a549443c8766,policy.golf,available,7.99,,high,low,6,name.com,,,
-a520b3cc-c347-4290-8173-f98ab5625a16,democracy.blog,resell,,,high,low,9,Tucows.com Co.,22/11/2016 02:02,22/11/2026 23:59,26/09/2026 05:29
-d2948131-d1b7-4e2d-b879-e274cd869dee,policy.you,premium,53.92,53.92,high,low,6,namesilo,,,
-20a6ae2d-bee1-4028-9074-5b4099c1e449,policy.contact,available,14.99,14.99,high,low,6,namesilo,,,
-1f4122ef-e4f0-4358-948c-ff56ad1ab0bf,policy.network,premium,140,280,high,low,6,namecheap,,,
-5a59a443-a22f-4863-b0be-f954b7dff018,governance.voting,available,1398,1448,high,low,10,namecheap,,,20/08/2026 17:22
-4503b1fa-20f8-4987-abfe-13a1ca5461e1,policy.vodka,available,32.49,32.49,high,low,6,namesilo,,,
-377c7241-1438-4056-ae8c-3a729dc5ec53,election.surgery,available,54.99,54.99,high,low,8,namesilo,,,
-ce3831a3-f025-402a-952e-a2f2eb819e94,policy.hosting,available,309.99,329.99,high,low,6,namesilo,,,
-9115791f-ef6b-45f3-ac47-c0f1cbbd34f8,election.fail,available,14.99,,high,low,8,name.com,,,
+a1810b7c-fcc2-47a4-9bee-935d2f2c65dc,government.boats,available,1.99,17.29,high,low,10,namesilo,,,24/09/2026 22:50
+dd258db5-0754-4a8c-a23e-e69e973bdd61,political.management,resell,,,high,low,9,"GoDaddy.com, LLC",19/03/2014 16:00,19/03/2027 16:00,27/09/2026 04:28
+55e44cc2-1b00-4d55-ac0a-826f5b854de9,government.men,premium,448,53.92,high,low,10,namesilo,,,24/09/2026 22:50
+d999af14-b5f6-467c-b2db-9086be420e90,political.yachts,available,1.8,21.98,high,low,9,namecheap,,,27/09/2026 04:28
+1d18311a-3bb4-4b4d-81b8-9e04f58f1369,political.estate,available,15.99,38.99,high,low,9,namesilo,,,27/09/2026 04:28
 da6c1e3b-dda4-4d22-944d-3fbd1f624940,political.diamonds,available,57.98,72.98,high,low,9,namecheap,,,27/09/2026 04:28
-fcf682e5-d8b5-4b4d-8a9e-878266cd5bf5,election.green,premium,625,,high,low,8,name.com,,,
+07947979-4390-4010-a876-5b601562a5d2,political.ca,resell,,,high,low,9,Grape Inc.,25/01/2002 19:45,25/01/2027 05:00,27/09/2026 04:28
 45bca7e4-3235-4fbb-8275-32aa4dc17f45,political.mobile,premium,780,780,high,low,9,namecheap,,,27/09/2026 04:28
-8dc06b2a-361d-4cc5-83b7-52955c3dd31a,policy.game,available,309.99,329.99,high,low,6,namesilo,,,
-384260c6-98c5-45ac-8929-377548044047,election.phd,premium,198.75,,high,low,8,name.com,,,
-a404cfcd-acc9-4958-ab0f-ceba0f34cb68,policy.energy,premium,118.8,118.8,high,low,6,namesilo,,,
-87ef9453-03d9-46b2-a8a0-daea3c0f6436,policy.moda,available,19.99,,high,low,6,name.com,,,
-9b61cef6-8e21-4e93-a616-9ef79393c057,democracy.insure,available,9.99,,high,low,9,name.com,,,
-7a0f83a7-1da1-46f8-b32c-1e607d6237c4,administration.solutions,available,24.2,24.2,high,low,14,cloudflare,,,28/09/2026 03:19
-fc8f99a5-805c-4b1f-bcad-4a7220508372,policy.condos,available,58.99,58.99,high,low,6,namesilo,,,
-0933a774-d510-4b01-8814-0b5e68165fbc,election.doctor,available,14.99,,high,low,8,name.com,,,
-a64881e1-860a-4b1d-bae3-b378a67dca20,policy.wine,available,9.99,,high,low,6,name.com,,,
-328f2fa0-84be-4ce8-bd88-90cfd07e7725,democracy.ag,available,89,,high,low,9,name.com,,,
-309947dd-4dc0-4b0f-857e-818f9ad00562,policy.pictures,available,9.99,,high,low,6,name.com,,,
-407ae4a5-71f6-449c-b55b-da75b0134815,policy.recipes,available,11.99,,high,low,6,name.com,,,
+7bb9997a-e11b-4f17-94fa-e001cccf6091,government.poker,available,5.98,85.98,high,low,10,namecheap,,,24/09/2026 22:50
+99c0c39f-0d30-4048-b144-7735cad03a40,government.guitars,available,104.99,114.99,high,low,10,namesilo,,,24/09/2026 22:50
+effb2882-2fd8-414f-a347-f65fc1373e50,government.gives,available,14.99,23.99,high,low,10,namesilo,,,24/09/2026 22:50
 e5896a28-657a-4d1e-8807-a695adf314b1,political.cruises,available,54.98,68.98,high,low,9,namecheap,,,27/09/2026 04:28
-31679960-a9b8-4c86-aca1-1b2658374a62,policy.melbourne,available,53.98,,high,low,6,namecheap,,,
-33d789a7-133e-45c0-af15-bcb406df3198,policy.capital,available,9.99,,high,low,6,name.com,,,
-4ac3fa0f-ea79-4ad9-b3f7-a0771baee21d,policy.tips,available,14.99,,high,low,6,name.com,,,
-91e57940-5619-4089-97e3-c6566401c2f2,policy.my,premium,68.94,,high,low,6,name.com,,,
-a5c183db-c3d0-4ee5-aaa9-30b064f28c79,policy.gripe,available,6.98,8.98,high,low,6,namecheap,,,27/09/2026 06:33
-08624c2f-b259-4d37-abca-4479058cecc2,policy.maison,available,19.99,,high,low,6,name.com,,,
-c200e0d7-bea4-42e8-8d70-4fcf81e68b17,election.fishing,available,32.49,32.49,high,low,8,namesilo,,,
-0f6a73c2-add8-458e-bcf2-fe98f07af2de,election.sh,available,39.99,47.99,high,low,8,namesilo,,,
-6080a3b8-143b-48a6-91d2-2a88c495ddde,politics.gripe,premium,78.54,78.54,high,low,8,namesilo,,,27/09/2026 05:03
-7a7bd96c-a372-41c5-911d-c12e8a3318dc,policy.uno,premium,302.5,302.5,high,low,6,namesilo,,,27/09/2026 06:59
-dd0efe8b-0d64-4df4-bacd-8283e1ad1a51,democracy.deals,available,5.99,,high,low,9,name.com,,,
-6a294724-e888-4a4a-b417-b2b884a8ecfc,election.yachts,available,1.99,15.75,high,low,8,namesilo,,,
-641552b8-540b-4695-a47e-0e6afa106545,election.plumbing,available,14.99,,high,low,8,name.com,,,
-d9a1bb59-019d-40b2-90b9-8c9a399e39f7,democracy.industries,available,17.49,,high,low,9,name.com,,,
-c90fb388-50d3-47c1-a93d-a2030939eeec,politics.zone,available,12.99,38.99,high,low,8,namesilo,,,27/09/2026 05:03
-d2952100-774f-4d76-8f31-e370a26f7002,election.fund,premium,500,,high,low,8,name.com,,,
-f40b24a0-d113-4255-9ae3-01116334a9a7,policy.cfd,premium,165.12,330.24,high,low,6,namesilo,,,
-ac05a2a1-3927-450e-ae44-76c798b00866,policy.immobilien,available,39.98,43.98,high,low,6,namecheap,,,27/09/2026 01:40
-7a5a631c-c72c-4480-a117-1a58dee508eb,democracy.hiv,available,184.99,,high,low,9,name.com,,,
-50542689-c7ac-4303-b710-0132a72749c3,policy.reise,available,27.89,97.99,high,low,6,namesilo,,,
-45faf629-4f13-4732-8e34-17dbe6632739,democracy.guitars,available,104.99,114.99,high,low,9,namesilo,,,
-ea21605f-f3eb-4b05-954f-24267b8dbf2a,democracy.protection,available,1999.99,2049.99,high,low,9,namesilo,,,
-befe374f-1651-43c5-b93f-58c8ec17355f,democracy.luxury,available,49.99,,high,low,9,name.com,,,
-da584261-1f20-4318-b3c7-1da9789cfd77,policy.hiv,available,,,high,low,6,,,,
-3ac63e83-0192-49db-b732-7216452d277e,policy.men,available,5.25,6.25,high,low,6,namesilo,,,
-4d9e52a7-a511-4379-9340-e0a2d8f8af16,policy.gold,available,9.99,,high,low,6,name.com,,,
-e3831f37-51ee-46b5-a505-678c44fba067,politics.ltd,available,4.98,42.98,high,low,8,namecheap,,,27/09/2026 05:03
-ef856887-a4f2-4c20-87d6-4bc987ef4498,policy.top,premium,54.45,54.45,high,low,6,namesilo,,,
-6fa0a1c2-b739-4e82-a735-74a255d99a92,election.irish,available,9.99,,high,low,8,name.com,,,
-94f39870-1575-4006-8794-ef2d3afc78ca,democracy.toys,available,19.99,,high,low,9,name.com,,,
-9d80715f-7df8-4604-b48f-82e4dcf92e7f,public.republican,available,7.49,28.99,high,medium,6,namesilo,,,27/09/2026 08:01
-cbbe16f5-94ef-4daa-8e49-71ed4d100e62,election.shopping,available,14.99,,high,low,8,name.com,,,
-b2bb2d7b-5bf1-403b-a51d-81643cbc36e8,democracy.holiday,available,9.99,,high,low,9,name.com,,,
-1f6a14d1-e3cc-4e70-82cb-bdf6bec42bbd,democracy.bot,premium,625,,high,low,9,name.com,,,
-b2094ab6-d8cc-40b0-9665-460859a1e4a8,democracy.jewelry,available,19.99,,high,low,9,name.com,,,
-6ec8b0d6-1646-4bb2-9e47-2b5def69c7be,election.llc,premium,625,,high,low,8,name.com,,,
-fc7f562e-913c-4d18-ac17-d859d198d083,election.works,available,7.99,,high,low,8,name.com,,,
-dae2ae88-ccbc-4cbc-a2e7-c10734858a7c,policy.church,available,11.99,,high,low,6,name.com,,,
-c95dae94-b7a6-4c44-a544-60bf9561b205,election.deal,premium,116,116,high,low,8,namesilo,,,
-af0a4673-fe61-42d2-b2dc-a9cae0c32453,politics.promo,available,14.49,24.99,high,low,8,namesilo,,,27/09/2026 05:03
-8aefda92-f705-47a6-a0f5-c422e4e14b73,democracy.realty,available,109.99,299,high,low,9,namesilo,,,
-cdb37235-8cc8-4bae-b507-75a6835df87e,election.surf,available,,,high,low,8,,,,
-3d5dc181-2408-451c-a9a2-8dbd77c29a51,politics.racing,available,11.99,11.99,high,low,8,namesilo,,,27/09/2026 05:03
-d3cc225e-c496-4bab-865d-4a57d7632b17,policy.kitchen,available,14.99,,high,low,6,name.com,,,
-39aac1a1-41f0-4c19-b5c4-3211afaa535b,policy.cam,available,22.98,,high,low,6,namecheap,,,
-cccedbc5-fb92-4784-b319-80b360ff9e31,election.london,premium,135.69,,high,low,8,name.com,,,
-436d7a75-8e97-4e2b-8cef-0ff25cd71e5a,administration.ninja,available,24.2,24.2,high,low,14,cloudflare,,,28/09/2026 03:19
-46bee3ec-9daa-4887-a17e-8438a60d97f6,election.site,premium,781.25,,high,low,8,name.com,,,
-84b77e29-23e7-4455-b702-4dd48fbc03a9,policy.clinic,available,19.99,,high,low,6,name.com,,,
-06ebdf9b-60e0-402b-9eb0-138aad581dfb,election.university,available,19.99,,high,low,8,name.com,,,
-b747b184-17c6-4ce3-832a-640d562540b8,policy.paris,available,51.98,,high,low,6,namecheap,,,
-235761a9-6fbc-4d9e-a5ca-e37afae710a5,policy.ryukyu,available,22.98,,high,low,6,namecheap,,,
-2c72b041-d0b5-49c6-9f01-f6949e7880b7,policy.business,available,3.99,,high,low,6,name.com,,,
-82032def-9bbc-440c-8cf1-84b491bd28e5,democracy.camp,available,11.99,,high,low,9,name.com,,,
-994a2615-8f2f-4c8e-8d0b-d9580fedb5ca,election.vacations,available,9.99,,high,low,8,name.com,,,
-5dcea8c2-a646-4725-8e3b-27e7d4983014,democracy.properties,available,10.99,,high,low,9,name.com,,,
-28f44953-60ab-4ff0-a0ea-a43864481db4,politics.construction,available,38.99,38.99,high,low,8,namesilo,,,27/09/2026 05:03
-6be0e8dc-315c-482e-ba14-6885052d9b57,governance.holdings,available,67.98,81.98,high,low,10,namecheap,,,20/08/2026 17:22
-38042875-bc7f-448e-b7b7-f1ead7052ff5,election.garden,available,39.98,,high,low,8,namecheap,,,
-589bd041-36b6-4309-9fa2-6beefdad1ce7,policy.institute,premium,500,,high,low,6,name.com,,,
-422a6728-0ff5-42d0-86d0-11b6d39fb4da,policy.mortgage,available,14.99,,high,low,6,name.com,,,
-8defe22b-b3f8-4c70-b04b-daa1d1951cce,democracy.bid,premium,437.5,,high,low,9,name.com,,,
-f31116cc-0d54-4d79-80f6-127c41d46c1c,administration.esq,premium,174.1,174.1,high,low,14,porkbun,,,28/09/2026 03:19
-b75654f3-c410-4e14-9383-0e3277187a92,election.info,resell,,,high,low,8,"GoDaddy.com, LLC",25/07/2001 18:56,25/07/2027 18:56,26/09/2026 05:47
-af056f20-0c6d-4421-8b7d-955f7cfee2da,democracy.flowers,available,64.99,114.99,high,low,9,namesilo,,,
-4684e845-a2ad-4c90-b434-775728a0b25d,policy.im,available,,,high,low,6,,,,
-55c28c0f-7e1f-4944-8fde-ec84d7e2af05,election.life,resell,,,high,low,8,Xin Net Technology Corporation,01/05/2022 13:15,01/05/2028 13:15,26/09/2026 05:47
-1e3cadff-cb0b-4ec2-8d84-de19a40f3d23,politics.nyc,premium,3450,29.5,high,low,8,namesilo,,,27/09/2026 05:03
-a5d437b6-3fc6-45bf-b301-83b0025c125e,democracy.voto,available,19.99,,high,low,9,name.com,,,
-be7b6001-e6a2-4139-974f-e0279dc7944b,administration.law,available,83,83,high,low,14,spaceship,,,28/09/2026 03:19
-149f4b42-c055-40ba-bc07-208bcddccd21,election.voting,available,,,high,low,8,,,,
-77299645-10c4-443a-bd6c-1b05600c6d3b,election.foo,premium,36.25,,high,low,8,name.com,,,
-45840ebf-583d-4d29-876c-94f6a8adf008,democracy.trading,available,19.99,,high,low,9,name.com,,,
-93505620-0ae6-4762-bc0f-fa84ece6e334,policy.rich,available,94.99,1999,high,low,6,namesilo,,,
-1bcba81f-194e-430d-9f77-2f3510d24816,democracy.solar,available,9.99,,high,low,9,name.com,,,
-9879b598-68b0-4e5b-bd9b-4d320811a853,politics.gallery,available,28.99,28.99,high,low,8,namesilo,,,27/09/2026 05:03
-1fe23406-fa73-4c13-8029-e45a20fbdf15,election.barcelona,available,38.98,,high,low,8,namecheap,,,
-3f15d229-4e2d-49cd-b070-7f26112ce776,election.hot,premium,116,116,high,low,8,namesilo,,,
-62eaa5b4-708c-4828-b40d-f88bf2d98c47,politics.forum,resell,,,high,low,8,,,,27/09/2026 05:03
-4de57e64-cbea-4a4c-929e-4b31d53d20b7,policy.day,premium,311.25,,high,low,6,name.com,,,
-c0e3d5a5-cba2-4225-9f1d-c05810e6f275,democracy.pet,available,19.99,,high,low,9,name.com,,,
-5e958996-6f68-4b27-bde1-78365fd93915,politics.io,resell,,,high,low,8,Dynadot Inc,19/01/2016 00:30,19/01/2027 00:30,27/09/2026 05:03
-c60db07e-e2f2-4f3c-9cd2-4f062fa3d246,politics.dance,available,16.99,27.49,high,low,8,namesilo,,,27/09/2026 05:03
-c37b9497-b0ae-41a7-a23f-2bb8a91ad62d,democracy.events,available,21.99,,high,low,9,name.com,,,
-ca4124a0-b644-45a8-9a17-03d50e3175de,governance.republican,available,5.98,43.98,high,low,10,namecheap,,,20/08/2026 17:22
-1bcef009-28d1-40c6-8482-2ec75b0ff398,parliament.dev,available,,,high,high,10,,,,
-2f4be06c-7c28-460b-b4da-4c06d96a1ec1,policy.college,available,17.99,59.99,high,low,6,namesilo,,,
-56668672-bd0c-4af9-adce-95400bba41c9,politics.menu,available,27.99,27.99,high,low,8,namesilo,,,27/09/2026 05:03
-f1888b21-e0f2-49c5-939b-9ac4785eed1e,policy.properties,available,10.99,,high,low,6,name.com,,,
-1c9f2642-1200-4df4-a9e8-9997ce57a72c,election.cooking,available,32.49,32.49,high,low,8,namesilo,,,
-308d50d9-d427-4c8b-ab10-2bb03ceadea2,democracy.menu,available,27.99,27.99,high,low,9,namesilo,,,
-ed07aa41-7541-4040-9c90-a2ed1d55c434,election.monster,available,1.99,15.75,high,low,8,namesilo,,,
-3f0ad315-6592-4aff-9bdc-923fe9e98494,democracy.rehab,available,,,high,low,9,,,,
-9a3df355-39d9-416d-8005-cb610849b7a1,politics.download,premium,116,29.5,high,low,8,namesilo,,,27/09/2026 05:03
-c4eeec56-f631-48ee-baf7-f73d42256a75,election.food,available,5.49,39.99,high,low,8,namesilo,,,
-eaef5bc0-ce52-439c-ac6b-81804dac0f7e,policy.creditcard,available,9.99,,high,low,6,name.com,,,
-7e452fd0-293f-47ee-a7f8-d5254a00cf95,politics.baby,available,1.8,81.98,high,low,8,namecheap,,,27/09/2026 05:03
-831ac4f2-90db-458b-9a8d-163c04862126,policy.broker,available,19.99,,high,low,6,name.com,,,
-84abac85-0422-4d99-8432-eaceefc45556,democracy.bike,available,14.99,,high,low,9,name.com,,,
-53f8fbee-b013-47f3-adda-90677658c2fc,policy.locker,premium,145.46,8.05,high,low,6,namesilo,,,
-8ac63212-fc66-4b48-98cd-73b2161faa9b,democracy.beer,available,2.19,32.49,high,low,9,namesilo,,,
-c3afb630-6953-43c5-b138-acb6f6d38c0e,democracy.farm,resell,,,high,low,9,"GoDaddy.com, LLC",17/04/2020 20:47,17/04/2027 20:47,26/09/2026 05:29
-f4016785-ef1e-4868-bc4e-f26306f3b8ec,election.agency,resell,,,high,low,8,"Sav.com, LLC - 30",02/07/2026 15:16,02/07/2027 15:16,26/09/2026 05:46
-7b487d95-4ca9-4a6c-8440-d1c1550248b6,election.cyou,premium,32.45,65.45,high,low,8,namesilo,,,
-42e98d26-bb1f-487a-86a3-b78a53b20e31,democracy.homes,resell,,,high,low,9,Dynadot Inc,24/01/2026 00:20,24/01/2027 23:59,26/09/2026 05:29
-56347b10-6ae4-4d57-a5be-7af6cdb73ed8,election.wedding,available,32.49,32.49,high,low,8,namesilo,,,
-e85fcf62-ca1b-4898-87e3-d7ed86d122a9,policy.hockey,available,14.99,,high,low,6,name.com,,,
-82cfd807-515d-4daa-98a0-ddb5471ef0a9,parliament.online,available,,,high,high,10,,,,
-a148a25b-5c52-4f57-8f0a-f4b451f59d69,politics.mom,resell,,,high,low,8,,,,27/09/2026 05:03
-ece80d66-bdca-443d-b6af-eff39c23fbd5,policy.car,available,1999.99,2199,high,low,6,namesilo,,,
-7dd32cb6-4c03-439f-ad6f-e461f27b966c,policy.soccer,available,19.99,,high,low,6,name.com,,,
-17c29f5c-df81-4ccf-ba08-1698b203ecc6,election.space,premium,1750,7000,high,low,8,namecheap,,,
-7b198b34-f4b2-4486-9119-eff30f211650,policy.auto,available,1999.99,2199,high,low,6,namesilo,,,
-faf47037-daf8-438a-8479-53ee26955eb8,politics.date,premium,384,116,high,low,8,namesilo,,,27/09/2026 05:03
-87922493-d114-4694-b4ce-687ec2bc40bc,democracy.restaurant,available,29.99,,high,low,9,name.com,,,
-61ee0470-552f-4604-8b30-f460cc976ba7,democracy.cv,available,9.99,9.99,high,low,9,namesilo,,,
-82057b78-5f6f-4c98-b1f3-ba787f6a7071,democracy.villas,available,19.99,,high,low,9,name.com,,,
-b3d8ad97-3b94-4f9a-aa6f-10b7fbce68ea,administration.feedback,available,9.99,321.22,high,low,14,dynadot,,,28/09/2026 03:19
-6ba7fdf4-f666-46c0-b0b8-1b210509da6f,policy.lawyer,available,62.99,62.99,high,low,6,namesilo,,,27/09/2026 01:40
-e2b478b9-11a6-40d7-8be6-69672e7cb523,democracy.archi,available,24.99,,high,low,9,name.com,,,
-8f701642-4b97-40e1-8f98-11bb71083682,politics.bargains,available,17.99,26.49,high,low,8,namesilo,,,27/09/2026 05:03
-0abd97a1-c700-4043-8fa4-526fa1fd7869,democracy.new,available,549.99,,high,low,9,name.com,,,
-69c47da1-96f3-45a7-91b3-f05a320a5d74,policy.boo,premium,311.25,,high,low,6,name.com,,,
-63452ff5-7493-4ec0-9403-15690a4139e8,policy.training,available,21.99,,high,low,6,name.com,,,
-6eaa2924-d4f0-400c-acff-f851ee73ae94,policy.university,available,19.99,,high,low,6,name.com,,,
-b142b873-c52e-42fe-b3ae-b6eca8ebfad8,election.partners,available,13.99,,high,low,8,name.com,,,
-a3361114-1230-4b58-b60a-ef300c6ded8d,democracy.coach,premium,242,242,high,low,9,namesilo,,,
-10c24186-27e4-469e-811b-2ce16cdde6ca,election.mobile,available,26.98,,high,low,8,namecheap,,,
-9a072f60-d648-4643-838f-16d6fad766d5,election.cab,available,19.99,,high,low,8,name.com,,,
-934e4a3f-ee07-49af-a11c-9e6d2bac981f,election.hockey,available,14.99,,high,low,8,name.com,,,
-25b0790a-d977-4aa8-ae27-ca37061f97bc,politics.insure,available,72.99,72.99,high,low,8,namesilo,,,27/09/2026 05:03
-99911c40-878d-418b-9954-79a0e6bf307e,politics.food,available,4.98,48.98,high,low,8,namecheap,,,27/09/2026 05:03
-1e74e2da-51b3-4d66-b81d-10d88329d012,politics.auction,available,36.99,36.99,high,low,8,namesilo,,,27/09/2026 05:03
-23fc12c9-38aa-4901-9544-93d37dea9a98,election.soy,premium,98.75,,high,low,8,name.com,,,
-f4f4c6ee-d771-4eae-adcc-3b908a32babb,politics.bike,available,12.99,38.99,high,low,8,namesilo,,,27/09/2026 05:03
-4c921b7a-40c3-427d-933e-20a0836ca827,democracy.holdings,available,64.99,64.99,high,low,9,namesilo,,,
-77863329-4573-497b-b68d-a9469f2433c7,administration.jetzt,available,23.99,23.99,high,low,14,namesilo,,,28/09/2026 03:19
-c0624cc1-51c2-4a0f-8c16-1ec51b3aed73,policy.talk,premium,71.4,71.4,high,low,6,namesilo,,,
-be492816-e63b-45bb-932f-6e0d9409c801,ballot.voto,premium,650,650,high,low,6,namecheap,,,21/09/2026 23:15
-c6d0a0c3-0798-4e50-a062-caf3b3fbe46a,policy.study,premium,242,242,high,low,6,namesilo,,,
-37fd378e-6453-415c-bcaf-5dc288205964,policy.bond,premium,188.16,376.32,high,low,6,namesilo,,,
+9726353d-3bc1-4ba1-92ac-a45b52128770,government.rehab,available,36.99,36.99,high,low,10,namesilo,,,24/09/2026 22:50
+f0e1ce20-b68c-41ab-addc-0d653c21e237,government.gg,available,68.98,82.98,high,low,10,namecheap,,,24/09/2026 22:50
+dea1c1df-e8eb-47e8-8d4e-2e9fd529ac22,government.company,resell,,,high,low,10,"GoDaddy.com, LLC",01/06/2020 23:13,01/06/2027 23:13,26/09/2026 06:27
+1b890d0c-2b7e-4dce-bde1-522ae6d2590c,government.life,premium,64.35,128.7,high,low,10,namecheap,,,24/09/2026 22:50
+c70c7eb4-9864-4bb4-a948-d200b5279794,government.pw,premium,3450,3450,high,low,10,namesilo,,,24/09/2026 22:50
+a289b13d-569c-448b-ace0-8dfad89c0ffc,political.loan,premium,650,84.5,high,low,9,namecheap,,,27/09/2026 04:28
+07e343ee-c930-4381-89ba-85d8b704c317,political.engineering,available,16.99,64.99,high,low,9,namesilo,,,27/09/2026 04:28
+3504f357-1115-46c9-8f1f-e06401da8fa9,political.horse,available,33.98,43.98,high,low,9,namecheap,,,27/09/2026 04:28
+9e7deebb-a9e5-4df1-828c-532acc84493c,government.coach,premium,242,242,high,low,10,namesilo,,,24/09/2026 22:50
+594eccfb-28d5-43b3-8dbd-255dd236f734,government.church,available,8.48,78.98,high,low,10,namecheap,,,24/09/2026 22:50
+2219c88a-daa2-42ab-a690-37c62300d7a2,government.theatre,available,509.99,529.99,high,low,10,namesilo,,,24/09/2026 22:50
+b6156e0b-d22d-4bec-b3c4-6604a999665d,government.catering,available,38.99,38.99,high,low,10,namesilo,,,24/09/2026 22:50
+3efc7616-0e4a-42b7-b1f2-09fe08f6a37d,political.sbs,premium,68.43,147.2,high,low,9,namesilo,,,27/09/2026 04:28
+5e8eb1af-4613-4538-a36e-5197a26810c0,government.deals,resell,,,high,low,10,Dynadot Inc,07/02/2024 17:33,07/02/2027 17:33,26/09/2026 06:27
+b0c97d0b-f66b-4a1e-878b-771d8c497d8a,political.school,resell,,,high,low,9,"GoDaddy.com, LLC",15/02/2021 03:00,15/02/2027 03:00,27/09/2026 04:28
+a78e2c64-658e-4bd6-8ecd-a8474c2555a5,political.gg,available,68.98,82.98,high,low,9,namecheap,,,27/09/2026 04:28
+0be8d05a-f837-4158-b68e-870338e4db0e,government.food,available,4.98,48.98,high,low,10,namecheap,,,24/09/2026 22:50
+2e889272-b72f-4cb3-87df-13c36d201b90,political.plus,available,15.99,53.99,high,low,9,namesilo,,,27/09/2026 04:28
+f9585ab1-fee7-4d23-82d3-270ce1b2ff62,government.fans,premium,116,116,high,low,10,namesilo,,,24/09/2026 22:50
+167e75d2-534d-40a5-acfb-3ce399ebeb34,political.photo,available,29.99,29.99,high,low,9,namesilo,,,27/09/2026 04:28
+7bff3000-8541-4ced-a302-b27dab5449d3,government.click,available,2.19,12.99,high,low,10,namesilo,,,24/09/2026 22:50
+f17f709d-ab83-4439-be56-848b29e509a0,government.work,premium,3450,11.8,high,low,10,namesilo,,,24/09/2026 22:50
+000265c1-bba7-4979-9187-283af664fea7,political.gold,available,7.98,130.98,high,low,9,namecheap,,,27/09/2026 04:28
+6f0de143-28c5-4acd-b06c-33fae9675011,political.fan,available,57.98,68.98,high,low,9,namecheap,,,27/09/2026 04:28
+77a72db0-e822-421f-9314-51f1d0b0d8ba,government.dental,premium,242,242,high,low,10,namesilo,,,24/09/2026 22:50
+ce2d71d4-9a7c-4611-8d55-06a8746cbb5f,political.video,premium,1107,1107,high,low,9,namesilo,,,27/09/2026 04:28
+e0351e06-9823-4e88-a1d5-dddb24b6dccb,political.surf,available,2.19,32.49,high,low,9,namesilo,,,27/09/2026 04:28
+972bacfa-6bf1-4745-a50b-17043aae0289,political.cricket,premium,3250,130,high,low,9,namecheap,,,27/09/2026 04:28
+1e91727a-f104-4e72-a4fe-c0c242875bc7,government.institute,premium,118.8,118.8,high,low,10,namesilo,,,24/09/2026 22:50
+ff4288a1-5ba7-4430-a401-0c918df12a8c,political.sex,available,69.98,154.98,high,low,9,namecheap,,,27/09/2026 04:28
+7945173c-44d0-4f82-a094-58b76d379769,government.cyou,premium,68.43,147.2,high,low,10,namesilo,,,24/09/2026 22:50
+ebc23661-dce3-4bff-8c45-ca05bdfe5150,political.farm,available,15.99,38.99,high,low,9,namesilo,,,27/09/2026 04:28
+8a7c31db-e58d-402e-9603-583817bb4343,political.associates,available,18.99,38.99,high,low,9,namesilo,,,27/09/2026 04:28
+0305b59d-8d25-4206-8495-0f03bf2c3af3,government.casino,available,14.99,159.99,high,low,10,namesilo,,,24/09/2026 22:50
+3781717e-f4ae-43d9-9a3e-38babf4eefce,political.claims,available,17.99,64.99,high,low,9,namesilo,,,27/09/2026 04:28
+85e4d1bf-d6d5-4ac1-852d-87c2fe1afb6f,government.living,available,5.49,39.99,high,low,10,namesilo,,,24/09/2026 22:50
+a0b03758-49a5-4ec3-bae8-02ea29f4df2a,government.vacations,available,38.99,38.99,high,low,10,namesilo,,,24/09/2026 22:50
+a5d437b6-3fc6-45bf-b301-83b0025c125e,democracy.voto,available,26.5,,high,low,9,unstoppable,,,29/09/2026 13:54
+78b1fab7-3efa-4671-b71a-9c02f2d9e583,political.accountant,premium,640,77.35,high,low,9,namesilo,,,27/09/2026 04:28
+97cc4ed5-2b0e-4174-9ea2-2fb723c74567,political.gift,available,14.99,14.99,high,low,9,namesilo,,,27/09/2026 04:28
+51f8d752-6e6e-415f-ab9b-fbba3b2711ca,political.site,premium,1625,6500,high,low,9,namecheap,,,27/09/2026 04:28
+9f9425f1-5a50-42a1-a4db-3d7ce574e983,political.gratis,available,24.98,31.98,high,low,9,namecheap,,,27/09/2026 04:28
+e84f3238-9d99-4ecf-afca-baa892812464,government.degree,available,52.99,52.99,high,low,10,namesilo,,,24/09/2026 22:50
+40f92144-ec87-4a87-914e-3bf2c65ca504,political.insure,available,72.99,72.99,high,low,9,namesilo,,,27/09/2026 04:28
+ed2b21ac-4434-42a2-922a-8c7f029134e4,government.immobilien,available,37.99,37.99,high,low,10,namesilo,,,24/09/2026 22:50
+a0197b90-6d0a-43e1-92f1-9d1ccb84b8b3,political.theater,available,65.99,65.99,high,low,9,namesilo,,,27/09/2026 04:28
+0ef333b4-8819-4f49-b6d7-d6648e216fcc,political.parts,available,10.48,45.98,high,low,9,namecheap,,,27/09/2026 04:28
+e1a6cd56-017a-41f9-a141-ac77314086db,political.exposed,available,22.49,22.49,high,low,9,namesilo,,,27/09/2026 04:28
+2e463345-5b31-426e-972e-35ed2d5e0993,government.broker,available,11.98,47.98,high,low,10,namecheap,,,24/09/2026 22:50
+97e7fd25-ff62-40fc-a3f8-a1ecc90c9c62,political.boo,premium,76.7,76.7,high,low,9,namecheap,,,27/09/2026 04:28
+74a6952c-9d99-4556-82d0-f8e72ce61f05,government.win,premium,448,53.92,high,low,10,namesilo,,,24/09/2026 22:50
+5516d773-19ec-4c4d-8ad1-5c3ee1f8ed59,political.so,available,68.98,,high,low,9,namecheap,,,
+898691f7-4f1d-41d5-b66c-8747c1909cbd,political.cash,available,12.99,38.99,high,low,9,namesilo,,,27/09/2026 04:28
+9a33f58f-cbf6-4c0e-b645-47d6da363ac3,government.delivery,available,6.75,61.99,high,low,10,namesilo,,,24/09/2026 22:50
+8bb5f872-48e3-44c2-adb2-d0e8666616af,political.flowers,available,64.99,114.99,high,low,9,namesilo,,,27/09/2026 04:28
+73a3b205-795e-4e72-89c6-3250d566a9d5,government.buzz,premium,512,116,high,low,10,namesilo,,,24/09/2026 22:50
+a4a45642-611b-4ed1-9a82-039aed1984a2,government.hair,available,1.99,17.29,high,low,10,namesilo,,,24/09/2026 22:50
+18f4df94-980a-4724-bff9-9c7751846d6a,political.cool,available,9.49,44.99,high,low,9,namesilo,,,27/09/2026 04:28
+cd736840-6a25-4cee-8a04-6fa3f5d60436,political.hair,available,1.99,17.29,high,low,9,namesilo,,,27/09/2026 04:28
+aeeceb75-af5a-407c-b103-a0c06e93951d,government.tennis,available,65.99,65.99,high,low,10,namesilo,,,24/09/2026 22:50
+59a86a46-046a-47dc-8a7b-72a70539b9c7,government.fast,premium,53.92,53.92,high,low,10,namesilo,,,24/09/2026 22:50
+f480e158-1275-4a0d-9ee7-62499752d699,political.cleaning,available,75.49,75.49,high,low,9,namesilo,,,27/09/2026 04:28
+f3e073d5-aa75-48aa-ab5c-78913f5bfe4e,government.wiki,premium,116,116,high,low,10,namesilo,,,24/09/2026 22:50
+7951b152-e688-4d52-868d-f80a44676540,political.vodka,available,32.49,32.49,high,low,9,namesilo,,,27/09/2026 04:28
+7cd70bf8-495e-4b87-b015-dabfc76ecc5c,government.football,available,26.98,36.98,high,low,10,namecheap,,,24/09/2026 22:50
+e46bcc53-471e-4dc5-ae34-8dc36eb2bfc6,political.bet,premium,650,650,high,low,9,namecheap,,,27/09/2026 04:28
+84952cf8-8b5b-4bb0-a178-1b2b7452a5c0,government.auto,available,1999.99,2199,high,low,10,namesilo,,,24/09/2026 22:50
+e699aced-eff1-4492-a601-245bb5289ec2,government.lease,premium,128.7,128.7,high,low,10,namecheap,,,24/09/2026 22:50
+4b65205a-73ae-4405-9586-08e270926772,government.cleaning,available,75.49,75.49,high,low,10,namesilo,,,24/09/2026 22:50
+ebe3240f-3545-4970-8b52-c3fb2645f4dd,policy.city,available,5.38,22.97,high,low,6,spaceship,,,30/09/2026 00:13
 27cf4898-0b10-4da7-b2fc-158f71388f8d,politics.so,available,,,high,high,8,,,,
-7a919a44-66d5-411f-9cde-5920cac50806,administration.icu,premium,768,1596,high,low,14,namesilo,,,28/09/2026 03:19
-66b4b350-7c53-424d-be97-8254ec6ff45f,politics.spot,premium,116,116,high,low,8,namesilo,,,27/09/2026 05:03
-8f083ecb-5222-4b3e-bf0e-79536a696ca2,party.online,premium,13800,13800,high,medium,5,namesilo,,,19/09/2026 09:39
-8633bc4b-8bf0-428c-9f48-5e7c33eadbd4,policy.actor,available,19.99,,high,low,6,name.com,,,
-04ff9e53-6a17-4c73-bf8f-483e1f5bab32,democracy.esq,premium,61.25,,high,low,9,name.com,,,
-5992a096-24b1-4b31-a421-e1723707158e,policy.ag,available,89,,high,low,6,name.com,,,
-bf802a17-5dda-4612-8dee-1c4495b9619a,parliament.store,premium,1107,1107,high,high,10,namesilo,,,25/09/2026 12:44
-fa8ee0cc-e93d-443d-9278-947a438c909c,politics.army,available,17.48,48.98,high,low,8,namecheap,,,27/09/2026 05:03
-bad7bd68-a7fa-4423-afc5-a1ec66d3080e,election.car,available,1999.99,2199,high,low,8,namesilo,,,
-4771628d-1d85-4d95-9e89-adb5944f8947,election.win,premium,437.5,,high,low,8,name.com,,,
-bfccbc78-60b9-4daa-95d6-0ceac8be74cf,politics.tax,available,8.98,85.98,high,low,8,namecheap,,,27/09/2026 05:03
-38f4c618-ab8c-466f-85ac-1804781902a7,administration.juegos,available,309.47,309.47,high,low,14,porkbun,,,28/09/2026 03:19
-383296ec-febd-4765-ae5a-18f79bb78265,politics.guide,resell,,,high,low,8,,,,27/09/2026 05:03
-ebe3240f-3545-4970-8b52-c3fb2645f4dd,policy.city,available,7.25,28.49,high,low,6,namesilo,,,25/09/2026 12:59
-8760f12a-f47e-4155-8b78-27569563d78f,governance.inc,premium,2015,2600,high,low,10,namecheap,,,20/08/2026 17:22
-f6c5b3b1-2e87-4db0-abbb-9d60d001a210,policy.tennis,available,65.99,65.99,high,low,6,namesilo,,,
-96e33eed-d708-4fab-abec-d8acbaa21b0d,election.makeup,available,1.65,15.75,high,low,8,namesilo,,,
-9e82dee9-42f0-4a9d-8df4-8cf3fdd8bec9,administration.blue,available,19.99,24.99,high,low,14,namesilo,,,28/09/2026 03:19
-8de6599d-45a9-4afb-b661-1626a76daad7,democracy.bz,available,25,,high,low,9,name.com,,,
-a3e1185c-5a6e-4aa3-b1ff-87233910c573,election.best,available,2.35,17.79,high,low,8,namesilo,,,
-0c110529-8b0a-48c6-8b16-d98ebb8f4131,administration.fishing,available,26.97,26.97,high,low,14,dynadot,,,28/09/2026 03:19
-817c2874-dbdb-466f-9115-1c1610cddbac,policy.services,resell,,,high,low,6,"GoDaddy.com, LLC",19/12/2025 12:24,19/12/2026 12:24,26/09/2026 08:14
-17767def-8400-41d4-a15c-a01f7ae1b4c0,democracy.pink,premium,625,,high,low,9,name.com,,,
-17079f2b-56b3-46d5-a416-433b35e83c98,election.loan,available,5.25,6.25,high,low,8,namesilo,,,
-c575c323-c9b2-4100-ac9d-626f38e05e6c,politics.broker,available,11.98,47.98,high,low,8,namecheap,,,27/09/2026 05:03
-8426751c-799d-49b0-b20e-b2129b1358dc,democracy.xxx,available,154.98,,high,low,9,namecheap,,,
-ec1ae172-f074-461e-b41d-b6e4da877ffb,politics.bid,premium,1107,116,high,low,8,namesilo,,,27/09/2026 05:03
-4008a9fa-5cc7-4b84-b5d0-2b9e280ef959,election.productions,available,14.99,,high,low,8,name.com,,,
-7321859f-4bd8-4fad-8923-67b59bd0f4dc,election.fast,premium,53.92,53.92,high,low,8,namesilo,,,
-16512380-c3bf-4e64-9630-0afbdf7ca468,policy.lgbt,available,11.98,93.98,high,low,6,namecheap,,,25/09/2026 12:59
-903e8ed4-9497-404f-9578-6505ec4b5264,governance.sarl,available,6.98,8.98,high,low,10,namecheap,,,20/08/2026 17:22
-cf11ebd8-224a-40b4-ab49-9462a6fb1d44,policy.florist,available,14.99,,high,low,6,name.com,,,
-7292c05a-0542-4436-a3e0-cc14f67942da,administration.ltda,premium,52.92,31.09,high,low,14,porkbun,,,28/09/2026 03:19
-640e0d26-eb1c-4630-bfcc-73028a3cdfad,administration.games,available,26.2,26.2,high,low,14,cloudflare,,,28/09/2026 03:19
-2109e8ee-f373-42f7-8e05-a57f63d20383,policy.vacations,available,9.99,,high,low,6,name.com,,,
-51763b0b-8337-42c6-ba3c-50dc27e9111e,policy.contractors,available,9.99,,high,low,6,name.com,,,
-68873b6a-341b-480d-a81f-47fd8b75cde4,democracy.tax,available,14.99,,high,low,9,name.com,,,
-2f8752d4-0a13-43f7-a73b-e87ffe702b66,election.dating,available,23.99,,high,low,8,name.com,,,
-9a058c0a-578b-4f9a-8481-2243720448ef,administration.charity,available,6.41,22.39,high,low,14,spaceship,,,28/09/2026 03:19
-08fe9c1c-46e5-41d4-9d2f-a7f9152c1e6d,policy.reviews,premium,242,242,high,low,6,namesilo,,,
+41ff69e9-3e55-4834-9a2c-97f2d884d2c2,government.care,premium,260,520,high,low,10,namecheap,,,24/09/2026 22:50
+16512380-c3bf-4e64-9630-0afbdf7ca468,policy.lgbt,available,10.81,64.37,high,low,6,porkbun,,,30/09/2026 00:13
+1d7feda1-4a2c-455a-8962-15c9b3ffd092,government.photography,available,14.49,36.49,high,low,10,namesilo,,,24/09/2026 22:50
+9d6f3405-0d3a-4e57-84e3-27679f7d3a2f,political.supply,available,25.99,25.99,high,low,9,namesilo,,,27/09/2026 04:28
+7a18aba8-a5ba-4b62-8a19-cec6edbe04f6,political.monster,available,1.99,17.29,high,low,9,namesilo,,,27/09/2026 04:28
+b0b1199c-5aee-4668-8148-7a169da29ae6,political.broker,available,11.98,47.98,high,low,9,namecheap,,,27/09/2026 04:28
+da32c524-3095-4eca-8b66-f93623eccc22,political.wine,available,9.99,59.99,high,low,9,namesilo,,,27/09/2026 04:28
+85be68cf-bfb3-4a2a-aaf4-511a4261ec5e,election.holdings,available,51.95,51.95,high,low,8,spaceship,,,29/09/2026 17:51
+817c2874-dbdb-466f-9115-1c1610cddbac,policy.services,resell,,,high,low,6,"GoDaddy.com, LLC",19/12/2025 12:24,19/12/2026 12:24,30/09/2026 00:13
+0dfcd11c-8fa9-441d-a0d3-c8a9dcced951,government.photo,premium,116,116,high,low,10,namesilo,,,24/09/2026 22:50
+43020497-6595-43fb-bab0-d43e73e3e8e3,policy.town,available,8.5,,high,low,6,unstoppable,,,30/09/2026 00:13
+338e8f7b-1e5b-482e-b629-8dca8fd50520,political.io,resell,,,high,low,9,Dynadot Inc,19/01/2015 20:56,19/01/2027 20:56,27/09/2026 04:28
+f2764646-e42f-45ab-8a7e-109b35f13061,government.engineer,available,38.99,38.99,high,low,10,namesilo,,,24/09/2026 22:50
+6c7f2971-df57-4119-811c-5c897a930556,political.jetzt,available,23.99,23.99,high,low,9,namesilo,,,27/09/2026 04:28
+3bf40b02-8c5c-4c0a-bd73-9c1e3a4f8c04,political.tires,available,5.99,78.99,high,low,9,namesilo,,,27/09/2026 04:28
+d767ade9-a791-4581-8359-758343a309f1,policy.voto,available,10.81,56.13,high,low,6,porkbun,,,30/09/2026 00:13
+be8ca65b-1764-420f-a5d6-38a989fa3fe2,government.one,premium,640,640,high,low,10,namesilo,,,24/09/2026 22:50
+6ede6423-e0db-4657-94a3-daced8eb28cd,policy.sarl,available,6.99,6.99,high,low,6,namesilo,,,30/09/2026 00:13
+1f2da769-7ea8-423e-bc8b-4567f9b7251c,political.global,available,46.99,95.99,high,low,9,namesilo,,,27/09/2026 04:28
+5d3e86b5-2be7-4e60-bbac-4ed398ace745,political.guide,resell,,,high,low,9,"Spaceship, Inc.",01/12/2018 16:46,01/12/2026 16:46,27/09/2026 04:28
+6886a96f-7e15-484e-a62b-a9fe918728b9,political.singles,available,9.49,33.99,high,low,9,namesilo,,,27/09/2026 04:28
+5052cba9-14ad-4661-bbc5-abec189b8d89,political.cars,available,1999.99,2199,high,low,9,namesilo,,,27/09/2026 04:28
+9b5ae9bb-d59b-47ea-bdc4-b58705f01fdd,policy.industries,available,45.99,45.99,high,low,6,namesilo,,,30/09/2026 00:13
+4e7d08e4-3310-4e60-98b6-d0638cf39ebc,political.link,premium,448,448,high,low,9,namesilo,,,27/09/2026 04:28
+80cdde34-c5bf-4482-9fcf-9af3a08023f0,political.florist,available,32.99,32.99,high,low,9,namesilo,,,27/09/2026 04:28
+4ed207da-d26a-44e3-a841-7f8ccf4151ee,political.fast,premium,53.92,53.92,high,low,9,namesilo,,,27/09/2026 04:28
+f1ff05a3-2ead-4c86-9458-87266eeb1a74,political.adult,available,69.98,166.98,high,low,9,namecheap,,,27/09/2026 04:28
+d207a291-b858-4bf4-89a9-d01f78f08f1e,political.to,available,64.99,64.99,high,low,9,namesilo,,,27/09/2026 04:28
+75ee503d-4bff-435f-9814-fd4bc7256eba,political.bingo,available,53.99,53.99,high,low,9,namesilo,,,27/09/2026 04:28
+66a9d3e5-f56e-4a20-9f6e-f1ad806f24b1,political.golf,available,7.49,64.99,high,low,9,namesilo,,,27/09/2026 04:28
+438e1f04-1c73-44ef-a87f-89283faed743,government.boutique,available,5.99,32.99,high,low,10,namesilo,,,24/09/2026 22:50
+94ae298e-12f7-45f0-979a-98d7c390a5c6,political.airforce,available,103.99,103.99,high,low,9,namesilo,,,27/09/2026 04:28
+76c57e27-d395-4062-96e5-70b96866d7e7,political.tours,available,10.99,61.99,high,low,9,namesilo,,,27/09/2026 04:28
+1906b24e-4a14-49f3-8ea2-31d038f22eaa,political.cheap,available,8.99,36.49,high,low,9,namesilo,,,27/09/2026 04:28
+e2752989-c82f-40f3-9b6f-4ae540318957,government.bio,resell,,,high,low,10,"Spaceship, Inc.",04/07/2026 21:13,04/07/2027 21:13,26/09/2026 06:27
+d593673b-9490-4983-a228-cd00b5b3998b,government.shop,premium,640,640,high,low,10,namesilo,,,24/09/2026 22:50
+258abdcd-c924-46a0-ac6e-182ec28cfdb0,political.eu,resell,,,high,low,9,Name: eu-tyche.at web invest gmbh & co KG Website: http://www.eu-tyche.at,,,27/09/2026 04:28
+3c9e0ac2-48d3-4227-ba86-73ee197fd9a3,political.place,premium,13,26,high,low,9,namecheap,,,27/09/2026 04:28
+c951af61-d049-4d6a-a525-867c8b5bb9ff,government.theater,available,65.99,65.99,high,low,10,namesilo,,,24/09/2026 22:50
+83b94cc2-d7df-4954-9d9c-9697b1c4dd79,political.apartments,available,57.99,57.99,high,low,9,namesilo,,,27/09/2026 04:28
+82fabe80-a1dd-4719-b198-a3ed4cce2168,government.vet,premium,242,242,high,low,10,namesilo,,,24/09/2026 22:50
+afb87327-e5e6-43c9-bb9f-42ca7a455af4,political.art,premium,3450,83.3,high,low,9,namesilo,,,27/09/2026 04:28
+8429ee3a-5773-481f-b559-f9972ee22247,political.vana,available,2298,2498,high,low,9,namecheap,,,27/09/2026 04:28
+3bdd1f40-f4f3-4da0-9586-d2ad70779b46,policy.global,premium,5200,65,high,low,6,namecheap,,,30/09/2026 00:13
+4155fe3e-d5b7-43fe-98c7-1a539c82827a,political.shiksha,available,14.99,51.99,high,low,9,namesilo,,,27/09/2026 04:28
+cba81b5a-43e4-4cf5-ad7b-d61b2ff264d3,government.camera,available,58.99,58.99,high,low,10,namesilo,,,24/09/2026 22:50
+202b587c-05f0-4806-bb04-018c35951760,political.pizza,available,17.99,64.99,high,low,9,namesilo,,,27/09/2026 04:28
+7dbffbde-80ea-45be-a9c0-9aae90a02e58,political.camp,available,62.99,62.99,high,low,9,namesilo,,,27/09/2026 04:28
+0a72133c-dc40-49cd-bc71-1620fa1e1c6b,policy.rsvp,premium,249.2,,high,low,6,unstoppable,,,30/09/2026 00:13
+780aeda9-90ea-4ad8-b1e4-abf987dedf4f,election.ai,resell,,,high,low,8,Atom.com Domains LLC,16/12/2017 03:08,31/10/2028 03:08,29/09/2026 17:51
+20559241-86a7-47bf-a4ae-9b3de4678fb5,democracy.country,available,2064.2,2064.2,high,low,9,spaceship,,,29/09/2026 13:54
+ea2ae698-cfde-48fa-a9d7-665f07155ef8,political.glass,available,76.98,99.98,high,low,9,namecheap,,,27/09/2026 04:28
+c96c9707-b009-4063-be0a-fdebb1eb6cc6,political.blackfriday,available,114.99,114.99,high,low,9,namesilo,,,27/09/2026 04:28
+3ed421fd-7552-4fc8-a5f9-c990eb39445f,policy.promo,available,10.55,19.87,high,low,6,spaceship,,,30/09/2026 00:13
+f8017710-9b1c-46d2-a848-ae93d69d40a4,election.srl,available,27.29,28.03,high,low,8,porkbun,,,29/09/2026 17:51
+3ae13650-97fa-4a95-9bd8-c08b351ff8c8,election.press,premium,273.44,273.44,high,low,8,porkbun,,,29/09/2026 17:51
+adca8156-5276-4877-9b2d-43efeb08c59d,political.dance,available,16.99,27.49,high,low,9,namesilo,,,27/09/2026 04:28
+bd105fd1-2d06-4150-b43c-e24cd8b4f465,policy.doctor,available,14.49,116.99,high,low,6,namesilo,,,30/09/2026 00:13
+e593138a-ba5c-4513-bd3e-862deb89834c,political.prof,premium,115.7,115.7,high,low,9,namecheap,,,27/09/2026 04:28
+964d3c3c-c2e7-4e25-87a4-e73a51dfcc9a,political.storage,available,509.99,529.99,high,low,9,namesilo,,,27/09/2026 04:28
+6896761f-3eca-4563-a468-1e8465edde31,policy.rentals,available,34.2,34.2,high,low,6,cloudflare,,,30/09/2026 00:13
+9257a40f-ffc8-46dc-a990-bfb8248f3023,political.memorial,available,52.99,52.99,high,low,9,namesilo,,,27/09/2026 04:28
+d2430135-b316-41f4-b79a-ee95f460a492,political.barcelona,available,38.98,38.98,high,low,9,namecheap,,,27/09/2026 04:28
+33c2ce37-ed5c-4c97-9f3f-ed17ea5ae58e,democracy.limited,available,28.2,28.2,high,low,9,cloudflare,,,29/09/2026 13:54
+8e757a04-5521-4dcd-899e-493f52f055a2,election.consulting,premium,103.7,207.2,high,low,8,spaceship,,,29/09/2026 17:51
+8f01cdfc-d997-497b-b99c-4b2f74afa2c0,political.nyc,premium,640,29.5,high,low,9,namesilo,,,27/09/2026 04:28
+3d344002-8e8f-480a-b8dd-00f0a3bc1d00,democracy.space,premium,3450,3450,high,low,9,namesilo,,,29/09/2026 13:54
+40b3f566-628a-4fe9-bc46-5ae86f345e69,political.camera,available,58.99,58.99,high,low,9,namesilo,,,27/09/2026 04:28
+e1e111d3-92b1-4eb3-889c-e9689d78c5a8,policy.investments,available,6.41,103.7,high,low,6,spaceship,,,30/09/2026 00:13
+6826064d-c4b0-4fcb-828d-c3b6f6cbcdbd,policy.mobile,premium,621.2,621.2,high,low,6,spaceship,,,30/09/2026 00:13
+471bf09e-e777-4cc5-aef6-3b783a21ed28,policy.kim,available,8.24,19.05,high,low,6,porkbun,,,30/09/2026 00:13
+ed1f6d83-51f4-4824-a6ed-45f4caad1c08,policy.solar,available,51.95,51.95,high,low,6,spaceship,,,30/09/2026 00:13
+154a6782-fa7e-4816-8978-e58de02514e3,campaign.voto,available,10.55,55.93,high,low,8,spaceship,,,29/09/2026 06:11
+70d58b6c-ea43-42fe-8701-151bc9a2f994,party.voting,available,1398,1448,high,medium,5,namecheap,,,19/09/2026 09:39
+8141077f-ef9e-45c8-8139-1e5c400fa833,policy.london,premium,116.97,29.64,high,low,6,porkbun,,,30/09/2026 00:13
+2c2a6694-07b2-4df6-b186-f5e6c26677f7,campaign.voting,available,978.6,978.6,high,low,8,dynadot,,,29/09/2026 06:11
+813c44d9-c57d-40ee-bd00-5585e6406e8d,policy.group,resell,,,high,low,6,,,,30/09/2026 00:13
+29f90e95-935b-4528-b320-11c734e7e2db,policy.equipment,available,28.99,28.99,high,low,6,namesilo,,,30/09/2026 00:13
+815b3fa3-2052-4c9a-9347-30df95425a77,policy.mx,available,39.99,43.99,high,low,6,namesilo,,,30/09/2026 00:13
+5aa92431-ac7a-430e-ac2e-c9bffa508407,policy.giving,available,6.41,22.39,high,low,6,spaceship,,,30/09/2026 00:13
+4ef60f45-6953-4769-b060-37631190620e,election.charity,available,7.48,37.98,high,low,8,namecheap,,,29/09/2026 17:51
+7eeb2d5d-7995-49fc-a7fe-8dc2ebf3709a,policy.zip,premium,323.7,323.7,high,low,6,namecheap,,,30/09/2026 00:13
+1b6d6d03-57d7-4b07-9751-6fa5fdfff519,policy.diet,available,93.35,103.4,high,low,6,spaceship,,,30/09/2026 00:13
+27fe1fcd-7594-4f67-84f3-2ab488882f6d,election.gmbh,available,47.98,56.98,high,low,8,namecheap,,,29/09/2026 17:51
+4ced9206-bafd-4961-aa81-c22a939f0845,policy.faith,premium,103.7,26.08,high,low,6,spaceship,,,30/09/2026 00:13
+64d95322-a2b1-41a7-91d6-077ce0c44ae2,election.tech,premium,812.5,3250,high,low,8,namecheap,,,29/09/2026 17:51
+7330cde6-f5a4-4c02-98f1-47ff661de360,political.kitchen,available,10.99,64.99,high,low,9,namesilo,,,27/09/2026 04:28
+b30677dd-bbb2-44cc-b5cf-47c3fd9e4f72,policy.media,resell,,,high,low,6,Netregistry Wholesale Pty Ltd,15/01/2026 09:07,15/01/2027 09:07,30/09/2026 00:13
+0c8c7e10-73c6-4741-99f7-7bdc70712161,political.sh,available,39.99,47.99,high,low,9,namesilo,,,27/09/2026 04:28
+63eea7b8-a220-4836-965d-2e032a6f27ef,policy.luxe,available,15.2,15.2,high,low,6,cloudflare,,,30/09/2026 00:13
+c1d089ea-3c34-4c3d-a5d0-dacf1cffb67c,political.nexus,premium,167.7,167.7,high,low,9,namecheap,,,27/09/2026 04:28
+fdd40eab-4517-47d7-822f-4e95f9621f72,political.recipes,available,8.99,77.99,high,low,9,namesilo,,,27/09/2026 04:28
+4f43c119-c799-4335-a0f5-c7b7bcf0751e,election.day,premium,1034.17,1034.17,high,low,8,spaceship,,,29/09/2026 17:51
+e5f5d7ca-bc79-4f0f-8ad9-c9c4538c2d6d,policy.taxi,available,48.2,48.2,high,low,6,cloudflare,,,30/09/2026 00:13
+da8eeef6-624a-4b73-a9a5-cf82a2be5023,political.mx,available,39.99,43.99,high,low,9,namesilo,,,27/09/2026 04:28
+4446a4d5-94a9-4d16-a674-f6c3bc5025ad,policy.plumbing,available,72.99,72.99,high,low,6,namesilo,,,30/09/2026 00:13
+b677a069-8577-4882-bf94-5f119f0c1dff,policy.exposed,available,18.02,18.02,high,low,6,porkbun,,,30/09/2026 00:13
+ceaad7b8-59df-48c7-9abd-cc1023d6cb33,election.maison,available,45.74,45.74,high,low,8,spaceship,,,29/09/2026 17:51
+6e7d21d8-e3c9-4756-a4f3-8bcae4338bdb,policy.sale,available,7,,high,low,6,unstoppable,,,30/09/2026 00:13
+ab186aae-500d-4ac7-995c-f5572ac1acba,policy.racing,available,10.53,10.53,high,low,6,spaceship,,,30/09/2026 00:13
+5e234fc8-3faf-4b90-8042-c4492a4a63c1,election.hamburg,available,69.98,73.98,high,low,8,namecheap,,,29/09/2026 17:51
+a4b770b5-78b0-43cb-a157-3a2b7f0977de,politics.country,available,2298,2450,high,low,8,namecheap,,,27/09/2026 05:03
+6c4983fc-bdb2-4710-a88d-ee9b10917758,democracy.ing,premium,150.2,,high,low,9,unstoppable,,,29/09/2026 13:54
+6bcb0ae0-121a-4884-a9ca-9df621470901,political.wedding,available,32.49,32.49,high,low,9,namesilo,,,27/09/2026 04:28
+1aa6722f-88d0-4df6-bfae-5674c8d6a615,election.global,premium,2620.5,55.11,high,low,8,porkbun,,,29/09/2026 17:51
+f3007d28-ecdb-405b-9771-cc5cec620f27,election.country,available,2064.2,2064.2,high,low,8,spaceship,,,29/09/2026 17:51
+1d54e4da-153e-4ba4-a2e2-31ecbb7769ff,election.coupons,available,42.2,42.2,high,low,8,cloudflare,,,29/09/2026 17:51
+2a145c10-fa89-449f-8973-7ddf2ea3ac60,policy.codes,resell,11.99,,high,low,6,name.com,,,30/09/2026 00:13
+80a0f564-a652-4bc5-8f3d-0f097de82344,policy.pw,premium,116,116,high,low,6,namesilo,,,30/09/2026 00:13
+2f9b5c6c-a33c-4f8c-bbe2-7a3dab212af9,policy.deal,premium,110,110,high,low,6,dynadot,,,30/09/2026 00:13
+c9574daa-ea2f-454b-b71c-7e6551a65cb3,political.autos,available,1.8,21.98,high,low,9,namecheap,,,27/09/2026 04:28
+21e9e761-a78c-439a-adde-9daeb4673270,policy.host,premium,640,640,high,low,6,namesilo,,,30/09/2026 00:13
+4a1b3a35-5c52-4436-9fcb-5b56969a8efb,election.email,available,4.34,25.04,high,low,8,spaceship,,,29/09/2026 17:51
+b0baf393-6834-4e1d-ad9e-f55fada179a6,political.skin,available,1.99,17.29,high,low,9,namesilo,,,27/09/2026 04:28
+f2712b8e-fd3b-4715-a585-b0a2957a8881,policy.surgery,available,42.2,42.2,high,low,6,cloudflare,,,30/09/2026 00:13
+11058d3e-1a48-4048-9b9b-36ccfa7a07d5,election.beer,available,1.54,26.26,high,low,8,porkbun,,,29/09/2026 17:51
+a882fa4b-30b5-40fe-b1d0-cce2e08bd440,policy.limo,available,43.67,43.67,high,low,6,spaceship,,,30/09/2026 00:13
+90ba7c17-31f6-41d6-a924-7668c9742309,policy.boats,available,1.99,17.29,high,low,6,namesilo,,,30/09/2026 00:13
+a2630c11-a6b8-4b21-81aa-cde8e008f84e,political.audio,available,104.99,114.99,high,low,9,namesilo,,,27/09/2026 04:28
+bb65fd4f-f56c-460a-bcf8-5b4ee4d6f65e,administration.ltd,available,8.99,30.99,high,low,14,namesilo,,,28/09/2026 03:19
+41bf4c27-916e-44c2-b20b-2da3fce981ec,political.style,available,16.99,38.99,high,low,9,namesilo,,,27/09/2026 04:28
+55390e9d-9514-4b7a-8648-a4fb132c2a23,election.clinic,available,11.98,82.98,high,low,8,namecheap,,,29/09/2026 17:51
+a50db0ad-d06a-444a-8d29-e86740d5174f,election.ooo,premium,21483,109.98,high,low,8,dynadot,,,29/09/2026 17:51
+ff3cb0de-5390-467b-8be1-5bb3692e1b88,democracy.ltda,available,34.99,34.99,high,low,9,namesilo,,,29/09/2026 13:54
+cf1f85e6-23f8-40ff-b377-9a394a18646b,policy.gifts,available,29.18,29.18,high,low,6,spaceship,,,30/09/2026 00:13
+d0972488-886f-49ad-aa93-2306ebc4b9cd,policy.fishing,available,32.49,32.49,high,low,6,namesilo,,,30/09/2026 00:13
+455e16b4-e7bd-417f-bc98-2a3ae5bf301d,election.salon,available,44.2,44.2,high,low,8,cloudflare,,,29/09/2026 17:51
+93d02b5f-fe83-44a2-bb5c-e612a7a0106e,election.media,resell,,,high,low,8,"NameCheap, Inc.",13/07/2025 17:06,13/07/2027 17:06,29/09/2026 17:51
+e7f2dd21-2f8e-453a-961b-01a7011cb9ec,policy.lifestyle,available,1.24,31.25,high,low,6,spaceship,,,30/09/2026 00:13
+4357d67d-311c-456a-a3db-725e0a5ec49f,democracy.website,premium,517.7,1035.2,high,low,9,spaceship,,,29/09/2026 13:54
+f6f2328b-2708-47e6-a348-d8ff1a667bd1,election.hosting,available,279.65,341.75,high,low,8,spaceship,,,29/09/2026 17:51
+cbaf6df6-dae6-4ac7-8251-fdd23d39e26f,policy.life,resell,,,high,low,6,"DNSPod, Inc.",09/06/2018 12:07,09/06/2027 12:07,30/09/2026 00:13
+ee8ecd6e-bd8c-4b88-8079-95b91d1ce06c,administration.co,premium,546.14,546.14,high,low,14,porkbun,,,28/09/2026 03:19
+7480a27a-2d06-475c-a42d-d166bc6190b5,democracy.co,resell,,,high,low,9,"GoDaddy.com, LLC",20/07/2010 18:00,19/07/2027 23:59,29/09/2026 13:54
+620298b7-9668-41b0-a67a-09c272c4cc26,policy.cruises,available,56.99,56.99,high,low,6,namesilo,,,30/09/2026 00:13
+2b62a0a5-a52c-46dd-8ce5-2d19ef82139f,policy.dealer,premium,4278,2660,high,low,6,namesilo,,,30/09/2026 00:13
+1f83a1a9-9082-4b58-9015-2efd0e53b208,politics.town,available,8.99,36.49,high,low,8,namesilo,,,27/09/2026 05:03
+a4c6aa02-0c21-44bc-9d63-a3d4ef8a6641,policy.monster,available,1.99,17.29,high,low,6,namesilo,,,30/09/2026 00:13
+c04e3336-f5e9-4d2f-bc36-eefa7410bc55,administration.republican,premium,118.8,118.8,high,low,14,namesilo,,,28/09/2026 03:19
+8da2c151-2ec7-4bee-b7f1-7bfd0728cb61,policy.sexy,available,2587.7,2587.7,high,low,6,spaceship,,,30/09/2026 00:13
+9995c6b7-79ab-4d71-82a9-40bf67a20b70,policy.mom,available,1.24,26,high,low,6,spaceship,,,30/09/2026 00:13
+e9a9555b-b91f-42a6-b265-46709ad724e3,election.graphics,available,19.48,19.48,high,low,8,dynadot,,,29/09/2026 17:51
+dd891ab4-e588-4c75-abfb-f52d9084c2e2,election.cruises,available,54.98,68.98,high,low,8,namecheap,,,29/09/2026 17:51
+8d982341-315b-4cce-a56c-ec807c833f85,policy.nexus,premium,249.2,,high,low,6,unstoppable,,,30/09/2026 00:13
+c180345d-e508-465d-aa2e-f8baaa0ccacd,democracy.expert,premium,414.2,414.2,high,low,9,spaceship,,,29/09/2026 13:54
+a601cb27-1b68-4d08-ac71-9dda33ac11ad,election.giving,available,5.99,22.66,high,low,8,porkbun,,,29/09/2026 17:51
+3b6fc5e5-e77e-452a-b30b-46f40693b59f,policy.beer,available,1.24,26.08,high,low,6,spaceship,,,30/09/2026 00:13
+c955f18c-9cac-4520-b861-551713a55d6d,election.sexy,available,2575.18,2575.18,high,low,8,porkbun,,,29/09/2026 17:51
+175f8228-fb1e-40ce-96db-7f99dbb9f01d,policy.catering,available,30.2,30.2,high,low,6,cloudflare,,,30/09/2026 00:13
+b703332f-72b9-4fd4-a8da-8f6e330bcc84,democracy.cruises,available,56.99,56.99,high,low,9,namesilo,,,29/09/2026 13:54
+730cdef8-5ad0-4afc-84e2-f1b133bcc4da,policy.gives,available,21.7,21.7,high,low,6,cloudflare,,,30/09/2026 00:13
+d3b034c6-cd11-40c2-85d6-215c3e8537b7,election.ac,available,45,45,high,low,8,cloudflare,,,29/09/2026 17:51
+e653e651-50d8-43ac-9005-a39a71b6376d,policy.coach,available,10.55,62.3,high,low,6,spaceship,,,30/09/2026 00:13
+c4ec66dd-7ba7-4934-b21e-ebe7b98fb7cf,democracy.moda,available,41.99,41.99,high,low,9,namesilo,,,29/09/2026 13:54
+9296a83a-0f69-4d93-b0fa-f857db80a29d,democracy.live,resell,,,high,low,9,Dynadot Inc,21/01/2017 17:06,21/01/2027 17:06,29/09/2026 13:54
+aee898db-0288-4326-83ce-1e38ab03c4ac,politics.consulting,premium,242,242,high,low,8,namesilo,,,27/09/2026 05:03
+b1a3adee-6ab4-4c67-acbf-ca4d9f98b950,election.hospital,available,45.74,45.74,high,low,8,spaceship,,,29/09/2026 17:51
+7cd2d569-c18b-423c-bbc6-1ac7136c9871,policy.poker,available,10.5,,high,low,6,unstoppable,,,30/09/2026 00:13
+32d16c34-a696-40ad-a5ea-ea88c6f518d4,democracy.delivery,available,6.5,,high,low,9,unstoppable,,,29/09/2026 13:54
+6af3d619-17f0-47d7-95c2-5968ce7346d5,election.kaufen,available,23.94,23.94,high,low,8,spaceship,,,29/09/2026 17:51
+6cb7456e-e799-49e9-98d8-ea1359a19193,election.solar,available,51.95,51.95,high,low,8,spaceship,,,29/09/2026 17:51
+077e408d-35f2-4876-9e98-6df51b258628,democracy.fit,resell,,,high,low,9,,,,29/09/2026 13:54
+2121183b-4368-458d-a923-1ade0dd3369f,election.ngo,premium,62.5,,high,low,8,name.com,,,29/09/2026 17:51
+f09b9492-685c-4c0f-9cd2-ed7fd30d6530,election.report,resell,,,high,low,8,Porkbun LLC,02/07/2014 16:00,02/07/2027 16:00,29/09/2026 17:51
+39c753a1-91a8-44ea-aa8b-4a698c5c08d5,politics.sexy,available,2998,3298,high,low,8,namecheap,,,27/09/2026 05:03
+df2ac684-7798-438a-b7d6-cd4ead438395,election.nexus,premium,30.22,30.22,high,low,8,spaceship,,,29/09/2026 17:51
+96c48d5f-d4c6-4388-bcf9-1051e10b8b10,election.legal,available,57.13,57.13,high,low,8,spaceship,,,29/09/2026 17:51
+06a29c7d-83a3-47c3-8b15-106814b94b8c,politics.site,premium,1107,1107,high,low,8,namesilo,,,27/09/2026 05:03
+582784b1-fe07-4eed-a0e7-d7d61969926d,policy.accountants,available,93.35,93.35,high,low,6,spaceship,,,30/09/2026 00:13
+4a6eb121-d3f7-4176-b68a-e795cee8856a,democracy.win,premium,437.5,,high,low,9,name.com,,,29/09/2026 13:54
+5d9bd3f4-4488-4367-a93a-69a63286cacf,democracy.hosting,available,279.65,341.75,high,low,9,spaceship,,,29/09/2026 13:54
+87a6cb53-6bdf-4ca7-bea5-5a89f6974ae5,policy.tires,available,8.24,72.61,high,low,6,porkbun,,,30/09/2026 00:13
+ceed68c1-e241-4be9-a77b-43702062bce1,election.gift,available,16.91,16.91,high,low,8,dynadot,,,29/09/2026 17:51
+7312116c-8699-42d8-aed8-7a6a7af0f662,democracy.voting,available,1398,1448,high,low,9,namecheap,,,29/09/2026 13:54
+040d5cd9-7d36-48d9-8e44-695eb67af706,politics.tennis,available,65.99,65.99,high,low,8,namesilo,,,27/09/2026 05:03
+c932d385-7cb2-48df-aa53-b31543a33203,policy.airforce,available,103.99,103.99,high,low,6,namesilo,,,30/09/2026 00:13
+af4e7372-2db0-4e19-a394-e1be28125528,election.dog,available,5.38,51.95,high,low,8,spaceship,,,29/09/2026 17:51
+7b792614-d1ae-4aed-8c49-6ed2d2058a15,policy.cricket,available,23.59,23.59,high,low,6,namesilo,,,30/09/2026 00:13
+7dc43b76-5ac1-4e3f-9b62-f60fd759a93f,politics.maison,available,57.99,57.99,high,low,8,namesilo,,,27/09/2026 05:03
+e642aaf4-dcfe-4472-b6a0-3ac4e289f51e,election.healthcare,available,70.58,70.58,high,low,8,spaceship,,,29/09/2026 17:51
+78664417-819f-4ec1-a5a7-94a243e358a1,election.capital,available,7.96,57.13,high,low,8,spaceship,,,29/09/2026 17:51
+641e2261-9dfc-42ea-9d98-a5f82fa9f81e,election.city,available,5.98,37.98,high,low,8,namecheap,,,29/09/2026 17:51
+7a8bc493-d9bc-4162-ac46-08fbaba4b9a2,election.men,resell,,,high,low,8,"NameSilo, LLC",12/05/2025 12:58,12/05/2027 12:58,29/09/2026 17:51
+88ca1f23-5bb4-45f5-9b87-418f71116944,election.gallery,available,22.97,22.97,high,low,8,spaceship,,,29/09/2026 17:51
+9369d607-9c42-493f-ad6d-a08ec66c9ba7,election.dental,available,64.42,64.42,high,low,8,dynadot,,,29/09/2026 17:51
+e9351039-cc7d-444a-a155-1951b7459d37,politics.investments,available,12.99,129.99,high,low,8,namesilo,,,27/09/2026 05:03
+8586bd45-5e24-4550-86f5-1d698edd1346,policy.casino,available,14.99,159.99,high,low,6,namesilo,,,30/09/2026 00:13
+3e8f5678-2601-43c4-8b10-185142950069,policy.hair,available,1.99,17.29,high,low,6,namesilo,,,30/09/2026 00:13
+fa6b49e7-0314-46f6-a150-1c7f7b6e7193,election.cx,available,16.53,16.75,high,low,8,porkbun,,,29/09/2026 17:51
+ecb6c40c-2ad6-4fbd-8ab9-75ab15657ab5,policy.health,premium,1035.2,62.3,high,low,6,spaceship,,,30/09/2026 00:13
+c089b516-4086-4b39-9777-f57669eb2a00,policy.inc,premium,1604.45,2070.2,high,low,6,spaceship,,,30/09/2026 00:13
+5ccbece8-20c9-47c5-baf5-b6f4df835fc6,administration.company,available,20.99,20.99,high,low,14,namesilo,,,28/09/2026 03:19
+f5dc1b4f-5fbb-4069-9393-81072152e0ac,politics.haus,available,14.99,33.99,high,low,8,namesilo,,,27/09/2026 05:03
+c1f7e449-a90d-4685-833c-b32c7e88425b,democracy.creditcard,available,144.99,144.99,high,low,9,namesilo,,,29/09/2026 13:54
+bc4903f7-eadf-4d9f-bced-c8c9c7666f0f,policy.fashion,premium,47.2,29.5,high,low,6,namesilo,,,30/09/2026 00:13
+1f99654a-85b6-474b-8d4e-acc33b5a2716,election.realty,available,88.18,289.16,high,low,8,spaceship,,,29/09/2026 17:51
+3f44d0cd-9ffb-4701-870e-fd7f647d6197,politics.repair,available,12.99,36.99,high,low,8,namesilo,,,27/09/2026 05:03
+e8842cc6-ba51-40af-ae62-541a4e13ab13,election.fan,available,57.98,68.98,high,low,8,namecheap,,,29/09/2026 17:51
+ea47cf1f-75e0-490a-9141-65e047d5c6b0,policy.bike,available,30.2,30.2,high,low,6,cloudflare,,,30/09/2026 00:13
+c3ccf9c3-458d-4aa7-8112-a83f187ee512,policy.games,resell,,,high,low,6,Squarespace Domains II LLC,05/07/2022 23:21,05/07/2028 23:21,30/09/2026 00:13
+0c16df87-0795-4135-9f84-b89ae247d9fd,democracy.hot,premium,100.5,116,high,low,9,unstoppable,,,29/09/2026 13:54
+789e9ccd-3593-4d7b-8bba-6cc2f40cdc57,policy.finance,premium,118.8,118.8,high,low,6,namesilo,,,30/09/2026 00:13
+f5b73cdc-081a-4b3b-b9b2-e1fcd1333ddc,election.trading,available,16.2,16.2,high,low,8,cloudflare,,,29/09/2026 17:51
+57ed1572-bf0e-48a8-973f-29725521e4a7,democracy.meme,premium,112.5,,high,low,9,name.com,,,29/09/2026 13:54
+6a5401d6-d147-4920-bf40-295aa0d2c8ac,politics.storage,available,509.99,529.99,high,low,8,namesilo,,,27/09/2026 05:03
+73ea68ae-486a-4f50-b800-e91fd42ac6d0,policy.toys,available,50.2,50.2,high,low,6,cloudflare,,,30/09/2026 00:13
+5deeb7f2-6f62-44be-b7be-783c3770bfae,politics.immo,available,34.99,34.99,high,low,8,namesilo,,,27/09/2026 05:03
+c9efb6d5-62b9-479d-8e01-09858fb8eaf9,election.house,available,11.59,35.39,high,low,8,spaceship,,,29/09/2026 17:51
+0798636e-b7a8-4721-ae35-46fae17ce37f,administration.press,available,62.2,62.2,high,low,14,cloudflare,,,28/09/2026 03:19
+57127987-5c87-4331-83dc-b920e1bc5d6d,policy.viajes,available,35.18,35.18,high,low,6,spaceship,,,30/09/2026 00:13
+914fe7ad-e03e-47be-8667-a9d0bc865005,politics.deals,available,40.98,51.98,high,low,8,namecheap,,,27/09/2026 05:03
+990cbc73-ba2e-4ff7-8da8-b4ae770c947b,democracy.irish,available,5.38,17.8,high,low,9,spaceship,,,29/09/2026 13:54
+ba4f19a0-7c54-4476-bfdd-00412ac3fa2a,democracy.lat,available,1.99,32.49,high,low,9,namesilo,,,29/09/2026 13:54
+91d5fe52-fb1b-4cc9-aa1d-6242c6ff61ae,policy.rehab,available,29.18,29.18,high,low,6,spaceship,,,30/09/2026 00:13
+a8468fdc-beff-4cf4-bf7c-7227af557e30,policy.yoga,available,26.08,26.08,high,low,6,spaceship,,,30/09/2026 00:13
+a664fc1f-5291-4a63-b9aa-5ee969fd210d,policy.bargains,available,17.99,26.49,high,low,6,namesilo,,,30/09/2026 00:13
+9eb58a78-f279-4b38-b3ba-a3dd9747550b,politics.tv,resell,,,high,low,8,,,,27/09/2026 05:03
+24f0d083-9b31-4538-9b19-74ab21f18cb9,policy.yachts,available,1.24,13.97,high,low,6,spaceship,,,30/09/2026 00:13
+d2dbd861-112e-4797-a429-54d8e4ed933b,democracy.download,premium,362.45,51.95,high,low,9,spaceship,,,29/09/2026 13:54
+c962cfc2-3884-4162-8506-34d4fe3c5d3c,policy.cab,available,13.06,26.97,high,low,6,dynadot,,,30/09/2026 00:13
+e553fc5b-6507-4e19-8eb7-9f38f450df12,democracy.rentals,available,6.41,35.39,high,low,9,spaceship,,,29/09/2026 13:54
+cd488813-d786-4d23-9c11-ad4ef6f74d54,politics.blackfriday,available,114.99,114.99,high,low,8,namesilo,,,27/09/2026 05:03
+4c8ad112-a1a2-4e9d-9b79-2ab8bf45902b,democracy.trade,premium,382.61,55.11,high,low,9,porkbun,,,29/09/2026 13:54
+c02a6226-a0b3-4ecf-8f62-561abe94a655,election.gold,available,6.93,83,high,low,8,spaceship,,,29/09/2026 17:51
+55b1c833-89c8-4eae-9ff8-e8588b12a513,administration.ong,available,16.72,16.72,high,low,14,dynadot,,,28/09/2026 03:19
+c7db8f17-57e5-4500-a9d2-10a6a697ebf0,democracy.dental,available,60.2,60.2,high,low,9,cloudflare,,,29/09/2026 13:54
+294613b7-2fad-4e27-99c3-fdafb3f4d111,politics.financial,available,23.99,58.99,high,low,8,namesilo,,,27/09/2026 05:03
+6c3d5699-3732-4459-b882-a5f86e5d574e,policy.soy,premium,48.75,,high,low,6,name.com,,,30/09/2026 00:13
+86e7acee-6c7d-49ce-ac09-b5e8353f27a6,election.events,resell,21.99,,high,low,8,"GoDaddy.com, LLC",20/04/2026 15:17,20/04/2027 15:17,29/09/2026 17:51
+b810601f-1980-441e-bd99-05108b4e246b,policy.how,premium,97.68,97.68,high,low,6,porkbun,,,30/09/2026 00:13
+950ce40b-0a30-4009-9666-8a1c684b94d6,democracy.credit,available,8.48,83,high,low,9,spaceship,,,29/09/2026 13:54
+e8313422-a0b5-4fd8-b525-42f77d389326,democracy.actor,available,10.81,35.53,high,low,9,porkbun,,,29/09/2026 13:54
+5fe57310-7d0f-4bfb-b956-0128b64a4fdb,election.faith,available,10.53,10.53,high,low,8,spaceship,,,29/09/2026 17:51
+59fdcd38-dce3-4055-b8de-7e8cedc2af69,administration.voto,available,10.55,55.93,high,low,14,spaceship,,,28/09/2026 03:19
+3ba4aefa-3b32-4c18-bda6-d3b79a1f995c,policy.careers,available,55.2,55.2,high,low,6,cloudflare,,,30/09/2026 00:13
+be1f1455-d2d2-4821-9ac7-dbc83bbc8539,election.luxe,available,15.73,15.73,high,low,8,spaceship,,,29/09/2026 17:51
+b297103f-cfb5-406b-b225-0127cf4c6e34,politics.style,available,16.99,38.99,high,low,8,namesilo,,,27/09/2026 05:03
+cb05d2b4-b2b4-44fd-afda-69289c1b8dca,politics.voto,premium,128.7,128.7,high,low,8,namecheap,,,27/09/2026 05:03
+271bd8b1-edb8-47dc-8cfd-551eb85d27c0,administration.voting,available,978.6,978.6,high,low,14,dynadot,,,28/09/2026 03:19
+28914eb2-b368-4088-a27e-9b4181b2d78f,policy.blackfriday,available,114.99,114.99,high,low,6,namesilo,,,30/09/2026 00:13
+e0e29cd1-93ee-41f5-b0fd-792aebef4ad1,politics.melbourne,available,58,58,high,low,8,namesilo,,,27/09/2026 05:03
+8d26f26f-7a0f-41ac-b1bd-4ee15c73828d,politics.yoga,available,33.98,45.98,high,low,8,namecheap,,,27/09/2026 05:03
+b075c6d8-7545-470c-b379-208b970c4d29,policy.archi,available,13.14,83,high,low,6,spaceship,,,30/09/2026 00:13
+8ec58a3b-95e6-4831-a866-dd5211c3cbc5,policy.motorcycles,available,1.24,13.97,high,low,6,spaceship,,,30/09/2026 00:13
+2a46f880-e7f7-46b7-a243-25087a24b49c,democracy.enterprises,available,3.6,28.32,high,low,9,porkbun,,,29/09/2026 13:54
+49c347f1-f157-4ad4-9700-a5406d1532a1,administration.cloud,premium,6900,6900,high,low,14,namesilo,,,28/09/2026 03:19
+b57557e8-a8b2-4e93-af4a-ab438cbb13ed,democracy.gripe,available,6.99,6.99,high,low,9,namesilo,,,29/09/2026 13:54
+0a432ed8-910b-4a5d-b694-d82d58f19344,policy.photography,available,28.2,28.2,high,low,6,cloudflare,,,30/09/2026 00:13
+da5ecbf2-ecf1-4cee-9eac-2e2f14a41809,election.exposed,premium,34.36,34.36,high,low,8,spaceship,,,29/09/2026 17:51
+861a4711-989a-4070-97ef-125fab23598a,policy.dance,available,21.2,21.2,high,low,6,cloudflare,,,30/09/2026 00:13
+6ff659d0-6bb3-4e93-b49e-77c37c047f07,election.lgbt,premium,2070.2,2070.2,high,low,8,spaceship,,,29/09/2026 17:51
+8469a623-9f42-49f2-bf4d-f13939d40733,election.online,premium,129.58,517.7,high,low,8,spaceship,,,29/09/2026 17:51
+2508ac9a-1554-4b5e-b503-3383099789d4,policy.travel,available,23.98,186.98,high,low,6,namecheap,,,30/09/2026 00:13
+2f077305-3bd7-4e29-ae20-7721c7efcb66,democracy.legal,available,74.98,88.98,high,low,9,namecheap,,,29/09/2026 13:54
+c9626bad-e620-4ee7-b072-12120dc3452b,democracy.qpon,available,2.19,11.49,high,low,9,namesilo,,,29/09/2026 13:54
+e8729b47-d758-4482-aca0-2e3c030e49d7,politics.domains,available,44.98,53.98,high,low,8,namecheap,,,27/09/2026 05:03
+aa43cccc-1e29-4d12-9d37-26dbad623e3f,politics.chat,resell,,,high,low,8,,,,27/09/2026 05:03
+200b6184-4138-448e-85d1-feee61b2395c,policy.ooo,available,24.99,24.99,high,low,6,namesilo,,,30/09/2026 00:13
+38f5381d-91be-4bcb-86bc-289123e1cbcd,election.tattoo,available,1.75,31.25,high,low,8,spaceship,,,29/09/2026 17:51
+15223360-79ed-4233-b9f0-6cc1e2a4004b,democracy.viajes,available,37.67,37.67,high,low,9,dynadot,,,29/09/2026 13:54
+99939203-0993-442c-92cd-637de3817762,election.limo,available,10.92,45.16,high,low,8,dynadot,,,29/09/2026 17:51
+3b0f94b6-4155-4e33-81eb-dde565bd1600,democracy.style,available,16.99,38.99,high,low,9,namesilo,,,29/09/2026 13:54
+6bb66f76-011f-4b6f-be4a-b64496fd8694,election.shiksha,available,10.92,41.81,high,low,8,dynadot,,,29/09/2026 17:51
+8633f594-e7f5-43ae-8a96-21d82064d915,election.systems,available,10.55,28.15,high,low,8,spaceship,,,29/09/2026 17:51
+8d37edd5-7017-4dff-a5f8-ad042d43462a,administration.legal,available,57.13,57.13,high,low,14,spaceship,,,28/09/2026 03:19
+bfb5f6d8-1da8-422a-82c4-2e829101ab10,policy.fans,premium,155.45,310.7,high,low,6,spaceship,,,30/09/2026 00:13
+817793dc-dd26-4c96-8fb3-390677c5c3a4,democracy.review,premium,6250,,high,low,9,name.com,,,29/09/2026 13:54
+f525cda7-9412-4405-9583-588a7744f868,politics.recipes,available,8.99,77.99,high,low,8,namesilo,,,27/09/2026 05:03
+45374eb9-5de1-408e-9517-ec7c30573bea,democracy.shiksha,available,10.92,41.81,high,low,9,dynadot,,,29/09/2026 13:54
+08622a1b-c45a-41bd-a636-e52ab2e5add1,democracy.kiwi,available,21.52,21.52,high,low,9,dynadot,,,29/09/2026 13:54
+19baad83-a728-4fd5-a107-413b1e794324,policy.tickets,available,359.99,488.88,high,low,6,namesilo,,,30/09/2026 00:13
+293fbbcb-b8a7-42f1-a42c-7d8f22512107,election.mov,premium,32.18,32.18,high,low,8,porkbun,,,29/09/2026 17:51
+eafad4c7-5d30-4618-b0b9-adfcd22be67d,election.archi,available,13.39,82.9,high,low,8,porkbun,,,29/09/2026 17:51
+1d172a1b-2bde-4055-9d60-f180f724ccfa,politics.supplies,available,24.99,24.99,high,low,8,namesilo,,,27/09/2026 05:03
+399131f8-ba1d-4c7c-ac6d-8982e3779511,politics.shopping,available,29.98,37.98,high,low,8,namecheap,,,27/09/2026 05:03
+cdc1d1f4-f85c-42e5-9406-36f17e526e68,democracy.audio,available,107.22,107.22,high,low,9,dynadot,,,29/09/2026 13:54
+e455f38e-a05e-4561-870d-606577b9cbfc,administration.hosting,available,310.98,437.98,high,low,14,namecheap,,,28/09/2026 03:19
+9d06b5c9-32b1-4ded-849a-12187e12de5b,democracy.capital,available,55.2,55.2,high,low,9,cloudflare,,,29/09/2026 13:54
+8fb201bc-93a3-4ccb-83d6-a668b51cde21,election.immobilien,available,30.22,30.22,high,low,8,spaceship,,,29/09/2026 17:51
+7b1e8d75-da5d-4a9c-a3c9-cdc0ff636c46,governance.mba,available,11.98,49.98,high,low,10,namecheap,,,20/08/2026 17:22
+2d2553ce-af89-4399-835a-8d669b2aa022,election.melbourne,premium,77.17,77.17,high,low,8,dynadot,,,29/09/2026 17:51
+2d606107-d097-471d-a893-ecff5bafc222,policy.site,premium,312.5,1250,high,low,6,name.com,,,30/09/2026 00:13
+1da8af67-bd2f-4858-a81b-eff7aac3dd2e,democracy.osaka,available,26.97,26.97,high,low,9,dynadot,,,29/09/2026 13:54
+0a8b0482-28c3-40af-990f-3ee43d50ed7c,democracy.football,available,25.99,25.99,high,low,9,namesilo,,,29/09/2026 13:54
+da682773-c0b4-4874-951d-28d3bccb3eff,democracy.diet,available,104.99,114.99,high,low,9,namesilo,,,29/09/2026 13:54
+03c6d25b-7cd0-4976-aef6-ed106dc8b1b6,administration.boo,premium,141.35,141.35,high,low,14,porkbun,,,28/09/2026 03:19
+10991efb-b32f-408a-b3e8-851214537ce4,election.berlin,available,54.82,54.82,high,low,8,dynadot,,,29/09/2026 17:51
+22002577-01fd-4bf0-a501-e17dc49360cd,democracy.theatre,available,509.99,529.99,high,low,9,namesilo,,,29/09/2026 13:54
+3ef57735-ce7a-4acd-919f-c75c52c927c6,election.financial,available,45.2,45.2,high,low,8,cloudflare,,,29/09/2026 17:51
+066906fb-04b5-40f4-a79d-dfc64bfecf19,politics.hot,premium,116,116,high,low,8,namesilo,,,27/09/2026 05:03
+19235b8a-6e72-452a-8e94-96f3fc8caa99,election.new,available,488.98,601.98,high,low,8,namecheap,,,29/09/2026 17:51
+b29a503f-1b38-4d17-a83e-854a3676583e,policy.webcam,premium,2587.7,103.7,high,low,6,spaceship,,,30/09/2026 00:13
+ddc2ff4a-8e32-4689-b616-352d43a364ab,election.ltda,available,30.18,30.18,high,low,8,dynadot,,,29/09/2026 17:51
+a0a38545-d7f0-4448-8933-15a9cf65e748,democracy.day,premium,623.75,,high,low,9,name.com,,,29/09/2026 13:54
+274a5072-da18-4aab-8ae2-60be8708c440,politics.tel,premium,10.62,10.62,high,low,8,namesilo,,,27/09/2026 05:03
+b97e8feb-a923-4815-bc7d-565458aa3e83,administration.info,resell,,,high,low,14,"Global Domains International, Inc. DBA DomainCostClub.com",07/02/2026 15:15,07/02/2027 15:15,28/09/2026 03:19
+dddd4a8a-5bd1-485d-a03a-5d1fccfcce9e,administration.cam,available,8.99,17.49,high,low,14,namesilo,,,28/09/2026 03:19
