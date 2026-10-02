@@ -1,10 +1,10 @@
-# One-Word Politics Domain Names Across 506 TLDs (176,725)
+# One-Word Politics Domain Names Across 506 TLDs (182,126)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-176%2C725%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-182%2C126%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This is a set of 164,041 one-word domain names tied to the politics keyword, spanning 506 distinct TLDs such as .democrat, .voting, and .markets. The median asking price is $618. Updated daily, it offers a broad, keyword-matched view of politics-themed one-word domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **176,725 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **182,126 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 176,725 domains · **Median ask:** $272.12 · **High-demand under $2,500:** 480
+**Public extract:** 1,000 rows · **Live catalog:** 182,126 domains · **Median ask:** $265.65 · **High-demand under $2,500:** 511
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/sector/politics`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                       |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------- |
-| party.voting     | available | $1,398    | $1,448        | high           | medium | 5      | namecheap                       |
-| political.team   | resell    | $46.48    | —             | high           | low    | 9      | NameCheap, Inc.                 |
-| policy.boo       | premium   | $323.70   | $323.70       | high           | low    | 6      | namecheap                       |
-| policy.actor     | available | $16.99    | $44.49        | high           | low    | 6      | namesilo                        |
-| government.fit   | resell    | $2.99     | $32.49        | high           | low    | 10     | Spaceship, Inc.                 |
-| policy.build     | premium   | $1,552.70 | $1,552.70     | high           | low    | 6      | spaceship                       |
-| policy.ag        | available | $77.98    | $77.98        | high           | low    | 6      | porkbun                         |
-| government.homes | resell    | $1.99     | $15.75        | high           | low    | 10     | Spaceship, Inc.                 |
-| policy.day       | premium   | $249.20   | —             | high           | low    | 6      | unstoppable                     |
-| policy.audio     | available | $93.35    | $103.40       | high           | low    | 6      | spaceship                       |
-| government.xxx   | resell    | $154.98   | —             | high           | low    | 10     | GoDaddy.com, LLC                |
-| policy.democrat  | premium   | $102.67   | $102.67       | high           | low    | 6      | spaceship                       |
-| policy.auto      | available | $2,140.22 | $2,140.22     | high           | low    | 6      | dynadot                         |
-| policy.bet       | resell    | —         | —             | high           | low    | 6      | Dynadot Inc                     |
-| policy.dentist   | premium   | $207.20   | $207.20       | high           | low    | 6      | spaceship                       |
-| policy.broker    | available | $13.50    | —             | high           | low    | 6      | unstoppable                     |
-| policy.group     | resell    | —         | —             | high           | low    | 6      | —                               |
-| policy.faith     | premium   | $103.70   | $26.08        | high           | low    | 6      | spaceship                       |
-| policy.business  | available | $19.49    | $19.49        | high           | low    | 6      | namesilo                        |
-| policy.la        | resell    | —         | —             | high           | low    | 6      | VIPDomains.LA  Founders Program |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------ |
+| policy.accountant | available | $23.59    | $23.59        | high           | low    | 6      | namesilo                 |
+| political.team    | resell    | $46.48    | —             | high           | low    | 9      | NameCheap, Inc.          |
+| party.democrat    | premium   | $242      | $242          | high           | medium | 5      | namesilo                 |
+| policy.adult      | available | $95.20    | $95.20        | high           | low    | 6      | cloudflare               |
+| government.fit    | resell    | $2.99     | $32.49        | high           | low    | 10     | Spaceship, Inc.          |
+| party.republican  | premium   | $242      | $242          | high           | medium | 5      | namesilo                 |
+| policy.apartments | available | $57.99    | $57.99        | high           | low    | 6      | namesilo                 |
+| government.homes  | resell    | $1.99     | $15.75        | high           | low    | 10     | Spaceship, Inc.          |
+| party.voto        | premium   | $128.70   | $128.70       | high           | medium | 5      | namecheap                |
+| policy.attorney   | available | $62.99    | $62.99        | high           | low    | 6      | namesilo                 |
+| government.xxx    | resell    | $154.98   | —             | high           | low    | 10     | GoDaddy.com, LLC         |
+| policy.art        | premium   | $3,450    | $83.30        | high           | low    | 6      | namesilo                 |
+| policy.band       | available | $15.73    | $25.04        | high           | low    | 6      | spaceship                |
+| policy.cloud      | resell    | —         | —             | high           | low    | 6      | GoDaddy                  |
+| policy.best       | premium   | $82.35    | $82.35        | high           | low    | 6      | spaceship                |
+| policy.boutique   | available | $5.99     | $32.99        | high           | low    | 6      | namesilo                 |
+| policy.healthcare | resell    | —         | —             | high           | low    | 6      | —                        |
+| policy.casa       | premium   | $47.20    | $11.80        | high           | low    | 6      | namesilo                 |
+| policy.cars       | available | $2,140.22 | $2,140.22     | high           | low    | 6      | dynadot                  |
+| policy.id         | resell    | —         | —             | high           | low    | 6      | PT Media Cloud Indonesia |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 176,725 live domains                       |
+| 1,000-row public sample | 182,126 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 480 high-demand names under $2,500         |
+| Basic exported fields   | 511 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Politics Domain Names Across 506 TLDs*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Politics Domain Names Across 506 TLDs*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
