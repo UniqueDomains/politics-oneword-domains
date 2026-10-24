@@ -14,7 +14,7 @@ This is a set of 164,041 one-word domain names tied to the politics keyword, spa
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **199,495 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 199,495 domains · **Median ask:** $250.64 · **High-demand under $2,500:** 2,589
+**Public extract:** 1,000 rows · **Live catalog:** 199,495 domains · **Median ask:** $250.57 · **High-demand under $2,500:** 2,593
 
 **Last updated:** 2026-10-23
 **Canonical page:** `https://unique.domains/domains/sector/politics`
@@ -95,7 +95,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 | ----------------------- | ---------------------------------------------------- |
 | 1,000-row public sample | 199,495 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 2,589 high-demand names under $2,500                 |
+| Basic exported fields   | 2,593 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
